@@ -1,0 +1,1105 @@
+date,campaign_id,campaign_name,objective,placement,market,device,impressions,reach,clicks,link_clicks,cost,purchases,purchase_value,add_to_cart,landing_page_views,frequency
+2024-07-01,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7536,4640,177,122,79.69,2.5,306.38,8,102,1.62
+2024-07-01,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18408,9106,357,231,261.15,4.6,586.12,16,194,2.02
+2024-07-01,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4011,1567,130,93,77.07,3.5,489.14,15,75,2.56
+2024-07-01,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10377,4187,434,254,192.78,12.2,1752.41,39,210,2.48
+2024-07-01,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5400,3940,87,69,49.72,1.6,177.17,5,59,1.37
+2024-07-01,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14127,8541,340,211,130.32,4.5,494.79,16,180,1.65
+2024-07-01,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4579,3585,137,87,31.26,0.5,49.05,1,70,1.28
+2024-07-01,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,18912,14707,662,389,101.42,3.1,333.22,11,332,1.29
+2024-07-01,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2609,1724,72,44,31.29,1.3,160.1,3,38,1.51
+2024-07-01,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7327,5299,217,130,94.81,3.6,434.04,9,113,1.38
+2024-07-01,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2687,1975,47,32,21.75,0.5,59.73,2,28,1.36
+2024-07-01,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8900,6635,124,88,71.23,1.2,145.21,3,79,1.34
+2024-07-02,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7839,4354,170,111,98.19,2.8,343.52,7,97,1.8
+2024-07-02,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25289,14925,481,346,280.71,7.3,928.76,23,282,1.69
+2024-07-02,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3988,1636,174,111,72.99,4.0,625.14,15,92,2.44
+2024-07-02,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10256,4104,291,227,184.76,10.1,1486.75,33,192,2.5
+2024-07-02,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4299,2576,66,53,39.07,0.9,98.75,3,45,1.67
+2024-07-02,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10586,7262,237,159,108.21,2.4,261.69,8,132,1.46
+2024-07-02,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4258,3469,145,85,29.67,0.7,61.0,2,68,1.23
+2024-07-02,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,19118,11883,604,438,105.27,3.5,371.1,13,380,1.61
+2024-07-02,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2996,2057,84,52,41.44,1.5,191.87,5,39,1.46
+2024-07-02,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7835,4608,206,119,112.1,3.4,441.63,14,103,1.7
+2024-07-02,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3071,2281,45,33,25.17,0.5,46.75,1,27,1.35
+2024-07-02,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8456,6822,163,110,69.14,1.6,169.79,5,99,1.24
+2024-07-03,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7468,3975,138,108,101.33,2.3,293.36,9,93,1.88
+2024-07-03,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,23055,13293,483,283,322.7,7.2,833.7,30,245,1.73
+2024-07-03,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3661,1322,152,97,76.56,4.7,682.44,16,78,2.77
+2024-07-03,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12475,5257,458,316,216.32,15.1,1971.04,51,270,2.37
+2024-07-03,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4646,3325,99,62,43.38,1.2,155.97,4,53,1.4
+2024-07-03,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13565,9702,278,160,137.73,2.0,237.31,8,135,1.4
+2024-07-03,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4702,3722,131,94,28.58,0.9,100.25,3,74,1.26
+2024-07-03,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14340,10601,355,257,84.46,2.2,236.52,6,203,1.35
+2024-07-03,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3329,2267,96,65,50.26,2.0,253.19,7,54,1.47
+2024-07-03,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5347,3855,121,83,89.37,2.1,261.41,8,74,1.39
+2024-07-03,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3401,2419,46,38,26.38,0.6,60.96,2,31,1.41
+2024-07-03,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9547,7181,210,128,70.5,1.6,206.14,6,107,1.33
+2024-07-04,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7491,3594,156,103,93.51,2.1,241.7,9,82,2.08
+2024-07-04,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,26901,15437,578,420,277.73,9.9,1259.3,40,381,1.74
+2024-07-04,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3852,1518,153,102,69.87,4.7,691.27,16,92,2.54
+2024-07-04,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12613,4769,479,310,242.96,12.1,1999.23,24,262,2.64
+2024-07-04,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6249,3784,108,75,51.27,1.5,182.85,3,60,1.65
+2024-07-04,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15223,8347,334,231,151.12,5.4,649.27,16,190,1.82
+2024-07-04,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3147,2146,82,56,21.92,0.5,46.16,1,47,1.47
+2024-07-04,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15037,11364,498,343,86.72,2.8,296.28,10,282,1.32
+2024-07-04,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2471,1810,85,50,36.49,1.3,165.02,4,41,1.36
+2024-07-04,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8046,6077,201,151,114.49,4.7,555.95,16,137,1.32
+2024-07-04,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3570,2775,56,36,25.48,0.6,64.35,1,31,1.29
+2024-07-04,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7257,5168,124,94,70.58,1.1,115.16,4,86,1.4
+2024-07-05,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6859,4203,135,84,81.79,1.9,247.21,5,77,1.63
+2024-07-05,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19322,12148,438,284,254.42,6.5,855.45,24,227,1.59
+2024-07-05,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4229,1660,138,106,77.0,4.0,493.72,15,93,2.55
+2024-07-05,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13393,6459,457,300,248.48,13.7,2018.38,50,255,2.07
+2024-07-05,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5147,2982,83,64,45.78,1.0,116.65,4,54,1.73
+2024-07-05,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15920,9361,286,193,132.36,4.1,512.02,10,149,1.7
+2024-07-05,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5661,4139,172,113,29.85,0.8,91.14,3,94,1.37
+2024-07-05,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15528,12198,379,284,94.08,2.0,206.48,6,210,1.27
+2024-07-05,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2726,1640,63,50,38.03,1.0,117.81,3,44,1.66
+2024-07-05,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6940,5175,218,136,108.19,2.9,400.86,10,117,1.34
+2024-07-05,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2391,1886,45,28,21.57,0.4,53.3,1,24,1.27
+2024-07-05,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6083,4816,98,73,58.97,1.0,122.26,4,58,1.26
+2024-07-06,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5548,3332,123,96,76.61,2.0,269.96,6,82,1.66
+2024-07-06,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17046,8878,382,249,209.1,6.2,856.98,24,199,1.92
+2024-07-06,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3654,1628,122,90,60.01,4.4,703.01,11,73,2.24
+2024-07-06,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8136,3140,279,198,139.69,10.3,1260.12,42,163,2.59
+2024-07-06,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3728,2074,63,42,33.55,0.8,83.63,2,35,1.8
+2024-07-06,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10406,6691,208,144,90.8,2.9,320.22,8,134,1.56
+2024-07-06,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3989,3565,127,88,20.8,0.7,69.11,2,74,1.12
+2024-07-06,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14275,10121,460,308,86.8,2.3,236.11,8,254,1.41
+2024-07-06,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1757,1004,60,34,27.64,0.9,118.82,3,27,1.75
+2024-07-06,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,4658,3368,124,72,76.55,2.3,297.44,7,59,1.38
+2024-07-06,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2016,1413,35,26,18.68,0.4,44.63,1,21,1.43
+2024-07-06,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6759,4113,128,77,56.91,1.2,156.53,5,67,1.64
+2024-07-07,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4380,2379,109,68,51.75,1.6,208.12,5,58,1.84
+2024-07-07,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,15643,8334,372,258,215.49,5.3,647.78,18,214,1.88
+2024-07-07,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3269,1397,138,97,56.06,4.4,683.83,12,87,2.34
+2024-07-07,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,7599,3214,287,191,158.11,8.9,1179.65,31,150,2.36
+2024-07-07,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4097,3005,80,57,30.64,0.9,118.98,3,50,1.36
+2024-07-07,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,7170,4708,162,109,86.37,1.6,199.42,5,87,1.52
+2024-07-07,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,2910,2177,71,43,17.42,0.3,26.8,1,36,1.34
+2024-07-07,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,10749,8269,331,211,67.32,1.6,149.09,6,178,1.3
+2024-07-07,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1519,1021,38,27,23.59,0.8,102.8,3,22,1.49
+2024-07-07,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,4409,2881,122,72,66.63,1.6,212.55,4,66,1.53
+2024-07-07,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1430,1028,22,15,12.76,0.2,21.34,0,13,1.39
+2024-07-07,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,4961,2850,81,49,37.37,0.7,83.78,2,44,1.74
+2024-07-08,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5890,3434,138,90,88.28,1.7,215.95,6,74,1.72
+2024-07-08,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,30635,15552,745,498,350.83,9.8,1195.7,31,385,1.97
+2024-07-08,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4324,1561,184,114,66.3,5.5,836.02,23,93,2.77
+2024-07-08,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11838,5294,582,387,229.02,17.7,2921.96,70,329,2.24
+2024-07-08,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5690,3721,120,77,45.93,1.6,190.15,4,68,1.53
+2024-07-08,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15363,9729,443,220,159.06,4.0,429.63,12,192,1.58
+2024-07-08,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3989,2977,156,92,24.34,0.8,66.16,3,80,1.34
+2024-07-08,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,18789,15410,396,331,93.23,2.6,243.41,12,278,1.22
+2024-07-08,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3541,2465,87,64,41.8,1.7,208.79,5,59,1.44
+2024-07-08,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7734,4942,218,147,113.47,4.0,506.67,16,131,1.56
+2024-07-08,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2718,1972,41,29,23.42,0.4,50.94,1,24,1.38
+2024-07-08,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7712,5617,115,77,59.79,1.1,127.31,3,62,1.37
+2024-07-09,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6841,3471,147,105,86.18,2.4,354.62,9,91,1.97
+2024-07-09,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,20642,10559,542,327,295.19,6.3,720.57,22,278,1.95
+2024-07-09,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3618,1700,121,85,70.51,3.1,520.6,8,70,2.13
+2024-07-09,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13095,5747,538,349,250.94,20.1,3112.43,68,283,2.28
+2024-07-09,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4729,2663,96,61,41.22,1.3,126.57,5,51,1.78
+2024-07-09,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16396,10906,414,223,142.86,4.5,594.67,15,183,1.5
+2024-07-09,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4790,4408,124,88,27.34,0.7,70.74,2,74,1.09
+2024-07-09,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17461,14079,494,315,84.2,2.8,301.02,10,265,1.24
+2024-07-09,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2620,1986,75,51,33.94,1.2,140.08,3,43,1.32
+2024-07-09,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,9067,7373,236,160,122.53,4.4,522.39,15,136,1.23
+2024-07-09,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2889,2137,51,30,24.07,0.5,61.3,2,26,1.35
+2024-07-09,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11946,8395,225,129,80.48,2.2,240.24,8,110,1.42
+2024-07-10,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8508,4594,191,124,95.52,2.5,309.79,10,99,1.85
+2024-07-10,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19287,11420,398,263,239.85,4.7,561.73,21,228,1.69
+2024-07-10,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3664,1401,148,100,68.72,5.0,627.69,14,85,2.61
+2024-07-10,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,14389,5638,491,337,235.4,17.0,2735.42,50,271,2.55
+2024-07-10,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4543,2997,100,65,43.05,1.2,129.41,4,47,1.52
+2024-07-10,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14389,9315,313,210,149.47,3.8,468.39,19,190,1.54
+2024-07-10,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6002,4564,178,110,32.73,0.9,81.9,3,89,1.31
+2024-07-10,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16814,12905,538,361,92.22,2.8,284.55,10,289,1.3
+2024-07-10,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2357,1502,67,42,37.36,1.2,159.04,2,32,1.57
+2024-07-10,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,10241,6614,239,177,121.8,5.2,660.45,23,145,1.55
+2024-07-10,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3420,2579,63,40,28.33,0.6,70.47,1,32,1.33
+2024-07-10,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10110,7267,175,114,79.07,1.4,177.57,4,95,1.39
+2024-07-11,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7450,3899,188,117,95.33,3.0,417.57,10,93,1.91
+2024-07-11,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,26743,15441,513,331,326.35,7.4,845.4,27,274,1.73
+2024-07-11,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,5886,2439,226,134,99.92,5.8,819.55,22,106,2.41
+2024-07-11,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11487,4395,497,305,243.61,16.5,2714.56,61,270,2.61
+2024-07-11,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3956,2688,50,49,40.5,0.9,102.44,3,42,1.47
+2024-07-11,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,18215,10511,461,286,154.3,5.6,681.12,18,252,1.73
+2024-07-11,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4304,3857,127,80,24.75,0.7,70.29,2,61,1.12
+2024-07-11,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15486,12575,449,328,86.59,2.4,199.93,8,263,1.23
+2024-07-11,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2889,1910,89,51,36.6,1.5,159.91,4,43,1.51
+2024-07-11,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,9815,5905,298,189,96.63,4.9,633.46,15,162,1.66
+2024-07-11,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2333,1905,42,28,21.5,0.4,46.61,1,25,1.22
+2024-07-11,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10324,7341,228,134,75.24,2.2,269.1,8,120,1.41
+2024-07-12,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7934,4383,146,109,85.74,2.2,342.86,7,94,1.81
+2024-07-12,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,22776,13540,604,390,232.21,9.2,1266.67,29,354,1.68
+2024-07-12,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3402,1314,95,69,69.85,2.4,393.5,8,52,2.59
+2024-07-12,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13913,6314,615,406,236.99,17.6,2555.64,47,322,2.2
+2024-07-12,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5784,3608,76,59,52.35,1.1,135.99,4,53,1.6
+2024-07-12,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13296,8525,347,208,132.29,3.8,463.31,16,181,1.56
+2024-07-12,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,7662,5684,255,145,35.89,1.4,140.37,6,134,1.35
+2024-07-12,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,12230,9431,389,239,91.52,1.8,181.23,7,203,1.3
+2024-07-12,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1991,1405,60,38,28.9,1.3,174.3,5,31,1.42
+2024-07-12,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7122,5024,214,151,119.35,3.8,486.26,14,134,1.42
+2024-07-12,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2563,1936,31,23,21.4,0.3,35.94,1,18,1.32
+2024-07-12,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10714,7286,147,110,75.63,1.8,197.28,6,83,1.47
+2024-07-13,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5604,3111,119,71,75.81,1.4,175.4,6,58,1.8
+2024-07-13,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16847,9076,403,259,222.43,5.9,763.81,25,205,1.86
+2024-07-13,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3269,1238,133,90,63.69,3.1,462.31,9,73,2.64
+2024-07-13,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8448,3548,256,160,144.82,9.1,1431.2,30,135,2.38
+2024-07-13,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3371,2113,70,40,32.32,0.6,76.14,2,37,1.6
+2024-07-13,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11606,7400,200,151,106.29,2.5,257.16,7,128,1.57
+2024-07-13,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4885,3799,151,103,23.51,0.8,77.36,2,84,1.29
+2024-07-13,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9411,7697,271,182,69.5,1.3,141.42,2,150,1.22
+2024-07-13,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2201,1570,67,41,29.91,1.2,140.39,4,34,1.4
+2024-07-13,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5536,4662,123,100,89.0,3.6,433.15,14,84,1.19
+2024-07-13,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2258,1431,48,27,16.4,0.4,47.06,1,22,1.58
+2024-07-13,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5906,4502,102,67,47.65,1.0,130.41,3,59,1.31
+2024-07-14,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5206,2647,115,75,73.58,1.4,189.26,5,63,1.97
+2024-07-14,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18103,8893,440,296,198.96,6.4,863.99,27,252,2.04
+2024-07-14,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2775,971,98,66,50.05,3.5,531.17,14,53,2.86
+2024-07-14,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,6964,2944,263,171,143.97,6.8,986.23,24,145,2.36
+2024-07-14,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3106,2083,64,40,34.06,0.9,114.21,3,35,1.49
+2024-07-14,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11107,6836,242,165,95.73,3.0,353.02,6,140,1.62
+2024-07-14,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3581,3034,104,65,20.39,0.6,66.64,1,57,1.18
+2024-07-14,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9616,7680,336,205,54.34,1.6,158.96,5,179,1.25
+2024-07-14,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2208,1469,52,35,26.95,1.0,124.53,3,27,1.5
+2024-07-14,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,3838,2650,108,64,53.04,1.6,222.67,6,49,1.45
+2024-07-14,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2072,1929,30,19,15.92,0.4,49.32,1,16,1.07
+2024-07-14,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5841,4377,60,51,56.77,0.9,103.11,3,39,1.33
+2024-07-15,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6815,3724,131,98,82.68,2.0,285.13,7,85,1.83
+2024-07-15,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,27622,16015,586,378,243.29,11.6,1591.86,57,330,1.72
+2024-07-15,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3759,1316,156,111,70.02,5.1,677.53,20,101,2.86
+2024-07-15,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13592,5284,533,353,228.34,16.2,2396.21,65,311,2.57
+2024-07-15,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4694,2994,98,65,40.09,1.1,134.76,3,57,1.57
+2024-07-15,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15412,9457,319,226,141.8,4.3,513.09,16,185,1.63
+2024-07-15,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4606,3830,103,79,30.7,0.5,52.38,1,66,1.2
+2024-07-15,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15622,12399,482,318,97.64,2.5,245.78,11,281,1.26
+2024-07-15,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3546,2380,75,55,47.18,1.9,227.58,8,43,1.49
+2024-07-15,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7046,4721,216,138,95.29,3.7,457.57,12,111,1.49
+2024-07-15,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2455,2053,44,31,21.66,0.4,48.72,1,27,1.2
+2024-07-15,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8692,7196,122,90,77.1,1.5,167.21,5,78,1.21
+2024-07-16,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6930,3488,144,95,81.55,1.9,240.8,6,77,1.99
+2024-07-16,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18777,11187,350,258,241.44,5.6,782.96,24,211,1.68
+2024-07-16,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,5889,2167,186,136,95.36,5.6,836.48,21,119,2.72
+2024-07-16,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12433,5366,450,307,201.65,12.2,1869.47,57,254,2.32
+2024-07-16,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4298,2811,82,59,43.12,1.3,160.3,4,48,1.53
+2024-07-16,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11850,8242,202,143,128.03,2.6,305.23,7,119,1.44
+2024-07-16,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5327,3884,172,116,29.96,1.0,82.71,3,103,1.37
+2024-07-16,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15535,10108,576,367,86.34,3.3,271.24,10,304,1.54
+2024-07-16,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2655,2223,77,49,35.36,1.6,187.39,4,36,1.19
+2024-07-16,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6900,4836,219,150,105.31,4.3,478.89,15,114,1.43
+2024-07-16,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3063,1973,45,30,26.28,0.5,59.53,1,22,1.55
+2024-07-16,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9621,7198,168,113,75.8,1.4,136.12,4,107,1.34
+2024-07-17,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7767,4378,189,113,98.92,2.3,312.8,7,105,1.77
+2024-07-17,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21157,12330,508,350,297.41,7.8,1146.64,23,300,1.72
+2024-07-17,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4216,1749,165,127,79.84,6.7,1102.69,30,99,2.41
+2024-07-17,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9854,4638,293,206,203.84,9.5,1606.51,32,169,2.12
+2024-07-17,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4747,2865,72,60,47.22,1.0,133.63,3,50,1.66
+2024-07-17,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,18377,11696,346,242,154.86,4.4,520.07,12,207,1.57
+2024-07-17,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4182,2898,107,81,25.51,0.6,56.01,2,68,1.44
+2024-07-17,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16380,12756,505,351,109.71,2.8,271.9,10,319,1.28
+2024-07-17,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2609,1619,65,49,39.9,1.7,243.17,5,40,1.61
+2024-07-17,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7938,5378,193,125,117.26,3.7,489.36,13,104,1.48
+2024-07-17,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3374,2503,44,36,27.17,0.5,60.67,1,32,1.35
+2024-07-17,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8405,5645,173,114,70.52,1.5,184.2,6,95,1.49
+2024-07-18,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7145,3670,150,108,100.29,2.4,323.45,9,93,1.95
+2024-07-18,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19767,10274,421,307,260.82,6.6,923.06,18,233,1.92
+2024-07-18,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4738,1807,169,105,89.65,4.9,641.84,20,89,2.62
+2024-07-18,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12523,5971,509,331,216.91,14.5,2397.46,40,272,2.1
+2024-07-18,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4428,2752,86,60,40.9,1.0,136.19,4,51,1.61
+2024-07-18,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11395,8054,199,143,124.23,2.2,258.09,6,121,1.41
+2024-07-18,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5412,4290,170,105,30.46,0.8,85.28,3,91,1.26
+2024-07-18,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,19942,15943,685,469,106.26,2.5,245.94,8,346,1.25
+2024-07-18,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3251,2111,74,57,42.27,1.4,161.91,5,48,1.54
+2024-07-18,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8073,4911,278,166,102.47,4.9,626.7,14,139,1.64
+2024-07-18,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3409,2245,57,34,22.3,0.6,72.07,2,28,1.52
+2024-07-18,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11092,7735,155,114,89.12,1.8,210.6,5,89,1.43
+2024-07-19,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5521,3225,137,80,77.27,1.5,183.66,4,73,1.71
+2024-07-19,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25216,13182,637,356,338.89,8.1,1124.87,27,298,1.91
+2024-07-19,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4802,1720,168,123,91.12,5.1,771.3,16,98,2.79
+2024-07-19,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,15320,6060,556,394,260.75,20.8,2841.16,75,339,2.53
+2024-07-19,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5476,3199,106,76,45.28,1.5,185.4,4,61,1.71
+2024-07-19,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15867,10385,267,188,155.41,3.2,358.01,8,168,1.53
+2024-07-19,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6478,4929,170,117,33.92,0.9,86.92,4,97,1.31
+2024-07-19,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14852,10544,342,247,82.32,2.3,234.49,8,232,1.41
+2024-07-19,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2885,1967,77,46,37.54,1.4,190.74,5,38,1.47
+2024-07-19,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6963,4990,212,127,96.99,3.5,442.75,12,112,1.4
+2024-07-19,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3581,2465,67,43,22.36,0.6,62.73,2,36,1.45
+2024-07-19,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7593,5868,147,98,71.82,1.1,124.69,4,81,1.29
+2024-07-20,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4580,2731,116,72,56.31,1.4,171.72,5,58,1.68
+2024-07-20,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16196,8751,349,250,178.59,5.5,802.35,16,191,1.85
+2024-07-20,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3377,1432,144,89,60.13,2.9,412.29,13,77,2.36
+2024-07-20,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9194,3672,398,248,184.92,11.9,1739.02,42,204,2.5
+2024-07-20,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4083,2724,69,51,34.26,0.9,106.58,3,45,1.5
+2024-07-20,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,8999,5231,185,122,96.91,2.3,302.21,9,110,1.72
+2024-07-20,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3619,2513,97,67,22.92,0.5,53.6,1,56,1.44
+2024-07-20,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9113,7565,203,155,56.03,1.3,144.15,4,133,1.2
+2024-07-20,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2639,1689,74,47,31.25,1.2,140.18,4,43,1.56
+2024-07-20,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6816,5090,173,102,90.58,2.5,304.36,10,79,1.34
+2024-07-20,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2758,2169,40,29,21.51,0.5,54.52,1,24,1.27
+2024-07-20,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5612,4429,88,58,45.82,0.8,93.84,3,46,1.27
+2024-07-21,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7061,3846,137,102,58.88,2.3,327.05,7,82,1.84
+2024-07-21,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16761,9831,425,282,181.53,4.8,534.29,17,250,1.7
+2024-07-21,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2118,765,96,62,39.85,3.0,373.21,13,51,2.77
+2024-07-21,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,7509,2679,347,229,131.72,11.5,1730.96,33,209,2.8
+2024-07-21,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2504,1417,60,34,27.45,0.8,94.65,2,26,1.77
+2024-07-21,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12439,7127,257,149,112.98,2.5,271.4,8,123,1.75
+2024-07-21,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3549,2599,95,68,21.19,0.5,58.18,1,52,1.37
+2024-07-21,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9182,6154,275,202,55.63,2.1,209.48,8,161,1.49
+2024-07-21,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1405,1265,45,30,16.9,0.7,90.67,2,26,1.11
+2024-07-21,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5998,4301,187,116,81.54,3.3,484.36,10,94,1.39
+2024-07-21,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2227,1530,31,22,16.62,0.4,44.51,1,19,1.46
+2024-07-21,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5571,3803,112,67,41.48,0.9,108.43,2,55,1.46
+2024-07-22,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8849,4809,179,134,104.54,3.3,448.23,8,115,1.84
+2024-07-22,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17924,11259,402,259,248.63,5.7,786.23,15,238,1.59
+2024-07-22,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3957,1479,128,98,80.92,4.1,693.21,17,80,2.67
+2024-07-22,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8579,3512,330,209,151.14,10.4,1683.59,38,161,2.44
+2024-07-22,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3747,2273,77,50,43.8,0.9,87.41,3,42,1.65
+2024-07-22,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16563,11922,308,224,158.1,3.4,380.77,12,202,1.39
+2024-07-22,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5049,3742,163,102,32.21,0.6,60.53,1,91,1.35
+2024-07-22,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14910,13039,522,328,89.74,2.8,261.79,8,281,1.14
+2024-07-22,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2292,1847,69,39,33.49,1.1,139.33,4,29,1.24
+2024-07-22,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7359,4590,197,144,98.9,4.5,544.35,18,116,1.6
+2024-07-22,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3154,2077,47,32,24.0,0.5,60.01,1,27,1.52
+2024-07-22,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8990,6408,149,101,69.41,1.5,151.56,5,86,1.4
+2024-07-23,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8191,5285,173,118,102.4,2.8,303.71,9,102,1.55
+2024-07-23,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,20047,11725,399,278,252.47,5.6,767.81,17,225,1.71
+2024-07-23,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4680,2199,165,108,92.34,5.0,660.57,20,95,2.13
+2024-07-23,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11826,4565,533,308,241.75,15.7,2196.46,60,253,2.59
+2024-07-23,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4869,3421,95,62,48.47,1.1,135.32,4,52,1.42
+2024-07-23,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13021,7841,233,172,140.82,3.3,406.46,13,146,1.66
+2024-07-23,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4785,3476,140,90,23.83,0.7,69.07,2,73,1.38
+2024-07-23,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16150,12804,457,312,91.24,2.8,277.09,11,285,1.26
+2024-07-23,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2733,1775,80,53,40.32,1.7,222.94,5,47,1.54
+2024-07-23,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8006,5548,240,146,110.9,4.5,578.4,17,131,1.44
+2024-07-23,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3368,2178,48,35,23.94,0.4,48.1,1,28,1.55
+2024-07-23,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9127,6877,135,99,78.29,1.4,164.43,4,83,1.33
+2024-07-24,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5418,2891,147,87,75.4,1.7,214.66,4,85,1.87
+2024-07-24,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19531,12043,572,322,269.51,7.0,836.41,23,243,1.62
+2024-07-24,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3896,1562,148,94,75.89,4.5,585.37,15,89,2.49
+2024-07-24,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10761,3725,424,298,192.06,13.7,2054.65,42,252,2.89
+2024-07-24,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4600,3058,77,52,44.2,1.1,132.87,3,45,1.5
+2024-07-24,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11939,7464,230,166,134.61,3.2,392.45,11,137,1.6
+2024-07-24,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4564,3342,138,90,28.16,0.7,70.55,2,76,1.37
+2024-07-24,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,19573,14317,595,408,121.1,3.8,371.15,15,341,1.37
+2024-07-24,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2231,1631,55,42,32.38,1.1,121.75,5,32,1.37
+2024-07-24,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7044,4336,198,137,109.9,4.5,603.6,16,117,1.62
+2024-07-24,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3231,2100,54,40,23.5,0.6,68.21,2,34,1.54
+2024-07-24,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11010,8435,194,136,81.5,1.7,187.91,5,124,1.31
+2024-07-25,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7298,3804,166,119,101.7,2.6,311.23,8,104,1.92
+2024-07-25,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19736,12066,406,310,279.06,6.9,950.13,23,270,1.64
+2024-07-25,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4498,1722,178,132,67.5,6.8,1023.54,19,105,2.61
+2024-07-25,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13275,5933,377,275,229.29,12.7,1904.02,41,236,2.24
+2024-07-25,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5213,3290,100,74,51.48,1.3,153.49,3,61,1.58
+2024-07-25,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,9112,6156,206,137,103.12,2.6,299.8,9,120,1.48
+2024-07-25,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5096,4039,122,97,32.95,0.8,86.93,3,83,1.26
+2024-07-25,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16684,11846,395,273,83.12,2.1,208.83,7,233,1.41
+2024-07-25,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1854,1504,49,35,26.0,0.7,81.8,2,31,1.23
+2024-07-25,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7764,4729,222,138,112.44,4.2,470.97,17,108,1.64
+2024-07-25,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3993,2721,76,52,27.1,0.8,96.49,2,48,1.47
+2024-07-25,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9674,7222,134,96,74.92,1.4,154.72,4,90,1.34
+2024-07-26,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6329,3356,149,100,80.28,2.1,282.86,7,83,1.89
+2024-07-26,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18741,11463,394,262,223.31,6.0,891.1,19,231,1.63
+2024-07-26,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3892,1488,108,87,79.14,4.1,589.0,12,69,2.62
+2024-07-26,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11269,4659,442,298,233.44,11.3,1794.64,33,253,2.42
+2024-07-26,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4245,2898,78,57,43.93,1.0,85.1,4,49,1.46
+2024-07-26,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14796,9629,250,206,124.76,3.6,493.19,10,175,1.54
+2024-07-26,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6052,4608,182,127,38.61,1.2,116.17,2,105,1.31
+2024-07-26,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,13887,10908,497,310,80.98,2.6,259.94,7,234,1.27
+2024-07-26,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2457,1652,64,41,37.14,1.1,156.04,4,36,1.49
+2024-07-26,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,9834,6225,291,183,119.92,5.4,699.45,26,154,1.58
+2024-07-26,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3564,2394,65,42,27.17,0.8,85.49,2,36,1.49
+2024-07-26,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9950,6444,135,102,81.03,1.6,182.86,6,86,1.54
+2024-07-27,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5315,2945,113,77,65.95,1.6,222.25,5,72,1.8
+2024-07-27,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17799,8147,458,278,210.24,6.6,900.76,24,223,2.18
+2024-07-27,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3830,1553,136,88,59.82,4.1,638.67,14,72,2.47
+2024-07-27,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8470,3121,237,187,166.5,7.7,1251.58,31,151,2.71
+2024-07-27,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3170,1917,77,47,35.64,0.8,94.54,2,40,1.65
+2024-07-27,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11576,9456,152,130,114.47,2.4,293.54,8,105,1.22
+2024-07-27,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3852,3293,97,65,24.77,0.6,68.16,2,53,1.17
+2024-07-27,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,13279,10882,315,208,76.07,1.5,151.16,3,178,1.22
+2024-07-27,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1254,802,33,21,19.48,0.5,62.86,1,15,1.56
+2024-07-27,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5589,3785,153,115,78.08,3.0,317.52,12,96,1.48
+2024-07-27,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2182,1483,45,24,17.37,0.4,44.29,1,19,1.47
+2024-07-27,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5613,3772,78,57,45.09,1.0,101.88,2,45,1.49
+2024-07-28,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,3744,2141,90,54,48.61,1.1,151.87,4,44,1.75
+2024-07-28,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,15962,8257,251,201,194.71,4.2,507.17,13,168,1.93
+2024-07-28,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3126,1338,103,75,53.98,3.0,391.93,10,61,2.34
+2024-07-28,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10806,4518,433,319,166.36,13.9,1882.2,38,292,2.39
+2024-07-28,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3160,2285,70,42,30.43,0.9,113.77,2,36,1.38
+2024-07-28,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12393,8508,285,175,96.61,2.6,331.84,9,154,1.46
+2024-07-28,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,2874,2070,82,55,18.36,0.4,45.29,1,44,1.39
+2024-07-28,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,8971,6508,275,155,54.51,1.3,134.85,4,131,1.38
+2024-07-28,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1518,1012,41,29,23.43,0.8,93.57,3,23,1.5
+2024-07-28,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5071,3479,140,97,68.76,3.2,373.81,11,79,1.46
+2024-07-28,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2090,1511,35,25,16.7,0.4,43.17,1,19,1.38
+2024-07-28,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5534,3451,106,61,43.91,0.9,100.29,3,52,1.6
+2024-07-29,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6472,3681,126,77,84.72,1.9,283.32,7,64,1.76
+2024-07-29,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,22340,10972,491,333,302.99,6.7,908.45,18,294,2.04
+2024-07-29,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4298,1700,200,123,81.9,5.1,728.94,15,107,2.53
+2024-07-29,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10123,3661,338,230,201.96,10.4,1670.32,45,179,2.76
+2024-07-29,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4774,3360,92,59,44.15,1.0,105.17,5,50,1.42
+2024-07-29,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16501,10102,255,210,139.55,3.3,421.18,14,181,1.63
+2024-07-29,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5866,4543,227,130,34.65,1.2,109.76,4,112,1.29
+2024-07-29,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14269,10299,548,313,88.94,2.4,213.81,8,291,1.39
+2024-07-29,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2313,1460,63,42,34.62,1.0,102.18,2,35,1.58
+2024-07-29,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8997,6257,234,147,124.67,4.8,651.04,18,115,1.44
+2024-07-29,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2453,1607,32,22,23.45,0.3,32.4,0,18,1.53
+2024-07-29,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9019,6630,145,97,66.5,1.3,146.87,3,83,1.36
+2024-07-30,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4974,2574,106,66,60.38,1.7,162.52,5,48,1.93
+2024-07-30,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21749,15077,600,389,271.68,7.7,1118.35,19,310,1.44
+2024-07-30,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2609,1016,106,69,55.43,3.3,498.09,12,58,2.57
+2024-07-30,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11882,4651,383,300,212.89,11.3,1841.83,37,262,2.55
+2024-07-30,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4926,3301,86,62,39.91,1.3,158.24,5,53,1.49
+2024-07-30,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,9320,6625,170,123,97.9,2.8,374.7,8,103,1.41
+2024-07-30,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4835,3710,119,86,31.52,0.7,76.91,2,70,1.3
+2024-07-30,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17165,12325,621,430,99.01,3.8,357.34,13,366,1.39
+2024-07-30,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2056,1405,47,39,35.89,1.1,150.06,3,28,1.46
+2024-07-30,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7824,4930,243,169,109.73,4.2,475.99,15,147,1.59
+2024-07-30,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2654,1827,39,29,22.89,0.4,37.06,1,24,1.45
+2024-07-30,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8942,6195,146,97,75.15,1.2,131.56,4,79,1.44
+2024-07-31,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8685,4742,211,131,101.42,3.2,439.1,7,117,1.83
+2024-07-31,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,27428,14954,451,374,326.33,7.5,932.87,24,302,1.83
+2024-07-31,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3885,1656,163,102,69.86,5.9,964.7,21,84,2.35
+2024-07-31,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12799,5338,445,345,237.92,15.1,2365.72,50,290,2.4
+2024-07-31,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5191,2965,92,60,45.2,1.1,121.98,3,48,1.75
+2024-07-31,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,19114,12605,282,218,160.91,4.7,588.49,16,179,1.52
+2024-07-31,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6172,4464,157,112,33.98,1.0,106.91,3,90,1.38
+2024-07-31,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14276,11782,369,324,87.0,2.3,220.62,4,256,1.21
+2024-07-31,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2815,1666,90,58,39.53,1.7,213.62,3,45,1.69
+2024-07-31,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7512,4894,201,123,111.65,4.1,550.96,16,101,1.53
+2024-07-31,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3410,2339,56,38,27.68,0.5,57.12,2,31,1.46
+2024-07-31,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9480,6937,170,118,81.43,2.1,249.89,7,95,1.37
+2024-08-01,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7433,4591,150,109,91.02,2.6,373.32,7,100,1.62
+2024-08-01,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,24086,12616,513,345,271.72,7.2,874.84,27,289,1.91
+2024-08-01,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3340,1478,122,73,63.44,2.8,342.17,10,61,2.26
+2024-08-01,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12847,5045,509,296,223.98,11.0,1708.72,42,242,2.55
+2024-08-01,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3855,2616,76,47,40.35,0.8,82.2,3,38,1.47
+2024-08-01,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13478,8022,261,209,131.32,4.1,521.24,14,184,1.68
+2024-08-01,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6594,4449,147,111,34.1,0.9,103.86,3,94,1.48
+2024-08-01,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,18522,15730,603,354,107.8,2.9,334.79,11,291,1.18
+2024-08-01,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2890,2035,123,75,37.02,2.3,273.17,9,67,1.42
+2024-08-01,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8168,6176,175,130,135.32,3.2,410.35,10,121,1.32
+2024-08-01,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3769,2327,67,47,30.14,0.5,56.5,1,40,1.62
+2024-08-01,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9239,6333,138,89,74.38,1.3,151.89,5,71,1.46
+2024-08-02,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7201,4172,162,117,88.95,2.4,294.28,9,97,1.73
+2024-08-02,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19467,10880,567,324,291.42,8.0,1038.6,30,257,1.79
+2024-08-02,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4111,1394,129,94,69.53,3.7,579.86,13,84,2.95
+2024-08-02,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,16028,6853,668,455,248.68,23.4,3467.97,70,380,2.34
+2024-08-02,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4538,2791,78,62,40.68,1.1,125.81,3,53,1.63
+2024-08-02,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11926,6806,246,173,128.96,2.8,338.2,9,142,1.75
+2024-08-02,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4411,3506,150,94,26.36,0.9,80.93,3,76,1.26
+2024-08-02,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,13683,9696,456,263,78.58,2.2,213.06,9,228,1.41
+2024-08-02,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1969,1285,48,35,32.7,1.1,143.19,4,28,1.53
+2024-08-02,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7955,5603,193,122,121.53,2.8,354.26,9,110,1.42
+2024-08-02,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2632,1960,56,31,23.39,0.4,47.07,1,26,1.34
+2024-08-02,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8595,6119,130,78,74.19,0.9,100.05,3,65,1.4
+2024-08-03,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4657,2776,94,61,63.34,1.3,152.19,4,53,1.68
+2024-08-03,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16342,8749,399,274,198.33,6.5,883.21,25,233,1.87
+2024-08-03,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2986,1162,125,88,51.27,4.3,628.07,15,80,2.57
+2024-08-03,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11960,5013,511,336,188.57,13.0,1822.24,50,299,2.39
+2024-08-03,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2921,1712,50,37,34.62,0.6,73.93,1,34,1.71
+2024-08-03,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12064,8325,246,146,121.87,2.5,326.93,9,124,1.45
+2024-08-03,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3548,2688,106,78,21.09,0.6,60.22,2,63,1.32
+2024-08-03,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9084,7953,302,205,58.18,1.3,125.0,4,169,1.14
+2024-08-03,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1842,1248,43,30,27.7,1.0,141.85,2,26,1.48
+2024-08-03,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5584,3894,130,82,85.4,2.0,222.23,5,71,1.43
+2024-08-03,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2171,1471,32,22,18.73,0.3,33.92,0,19,1.47
+2024-08-03,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8493,5502,144,94,62.4,1.1,108.21,3,83,1.54
+2024-08-04,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,3776,1981,76,51,55.09,1.5,175.62,5,42,1.91
+2024-08-04,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,13846,7937,421,230,195.01,5.1,704.63,16,195,1.74
+2024-08-04,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2515,917,107,62,48.88,3.3,528.54,10,51,2.74
+2024-08-04,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,6859,3038,244,183,135.2,9.0,1351.86,37,164,2.26
+2024-08-04,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3225,1992,49,37,35.12,0.5,54.8,1,30,1.62
+2024-08-04,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,8822,5651,150,101,87.94,1.6,187.84,6,84,1.56
+2024-08-04,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3531,2848,92,62,24.22,0.6,57.65,2,55,1.24
+2024-08-04,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9716,7070,275,197,54.36,1.5,149.15,4,173,1.37
+2024-08-04,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2236,1493,64,37,22.59,1.0,114.02,3,30,1.5
+2024-08-04,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,4430,3221,119,68,65.18,2.0,244.72,6,59,1.38
+2024-08-04,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2413,1674,36,25,17.85,0.4,45.98,1,21,1.44
+2024-08-04,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5678,4179,100,73,39.26,1.1,121.07,3,62,1.36
+2024-08-05,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8244,4894,237,157,107.76,3.2,462.99,10,144,1.68
+2024-08-05,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17346,9484,523,293,247.84,5.6,802.3,15,236,1.83
+2024-08-05,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3673,1465,136,90,69.46,4.3,679.48,17,83,2.51
+2024-08-05,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13481,5140,416,298,230.03,15.0,2227.66,42,234,2.62
+2024-08-05,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4382,2511,102,57,46.39,1.0,118.67,2,47,1.74
+2024-08-05,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13883,9294,311,188,152.52,3.4,333.47,12,165,1.49
+2024-08-05,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4660,3949,114,69,27.25,0.6,67.67,2,57,1.18
+2024-08-05,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14406,10285,494,297,91.33,2.3,211.65,7,255,1.4
+2024-08-05,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2603,1675,64,44,31.58,1.2,168.25,4,35,1.55
+2024-08-05,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6821,4338,162,122,103.62,3.1,371.48,11,112,1.57
+2024-08-05,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3143,2264,48,38,22.57,0.7,79.39,2,29,1.39
+2024-08-05,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10181,7174,146,101,80.06,1.4,159.7,4,79,1.42
+2024-08-06,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,11350,6215,168,140,122.54,3.1,408.62,12,121,1.83
+2024-08-06,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,24039,11924,517,394,271.96,8.7,1144.03,28,347,2.02
+2024-08-06,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4791,1960,224,137,84.61,6.2,808.79,22,120,2.44
+2024-08-06,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8372,3464,278,204,154.5,9.0,1500.34,29,181,2.42
+2024-08-06,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4078,2548,81,54,41.69,1.0,95.35,2,46,1.6
+2024-08-06,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11617,7292,192,138,104.51,2.6,337.19,7,113,1.59
+2024-08-06,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6173,4695,223,135,28.07,1.0,89.99,3,119,1.31
+2024-08-06,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15231,10735,413,282,94.03,2.7,265.75,7,231,1.42
+2024-08-06,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2259,1622,56,41,32.77,0.9,115.26,3,35,1.39
+2024-08-06,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7888,5095,244,163,101.83,4.8,584.56,12,145,1.55
+2024-08-06,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3186,2309,60,37,27.3,0.7,86.87,2,29,1.38
+2024-08-06,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9168,6197,169,114,75.23,2.1,207.51,7,93,1.48
+2024-08-07,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5816,3657,127,85,71.24,2.1,240.07,8,72,1.59
+2024-08-07,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,26031,16186,446,342,311.35,8.0,1162.88,25,299,1.61
+2024-08-07,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3433,1303,107,73,62.91,3.6,413.26,15,63,2.63
+2024-08-07,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,14533,6742,568,382,250.81,17.3,2820.79,67,355,2.16
+2024-08-07,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5319,3375,118,72,47.04,1.1,132.09,4,60,1.58
+2024-08-07,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15453,8972,253,184,154.05,3.3,347.46,11,158,1.72
+2024-08-07,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5990,4388,180,133,37.39,1.0,119.4,3,119,1.37
+2024-08-07,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,20155,15128,633,409,103.06,3.0,273.19,9,345,1.33
+2024-08-07,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2551,1529,66,49,42.21,1.3,165.23,4,42,1.67
+2024-08-07,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8164,5030,218,133,120.44,3.4,393.01,12,119,1.62
+2024-08-07,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3253,2267,47,36,26.08,0.5,57.14,1,30,1.43
+2024-08-07,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10207,6976,195,110,79.9,1.7,232.11,6,92,1.46
+2024-08-08,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7710,4652,163,105,82.47,2.2,290.28,9,88,1.66
+2024-08-08,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,31415,17665,730,445,346.52,7.2,827.94,24,407,1.78
+2024-08-08,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,5082,2248,208,148,79.12,5.9,989.6,23,133,2.26
+2024-08-08,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13422,5312,537,346,204.76,18.3,2364.26,72,277,2.53
+2024-08-08,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5632,3765,87,68,50.97,1.2,135.1,4,59,1.5
+2024-08-08,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16932,10159,351,250,166.75,3.7,451.11,10,238,1.67
+2024-08-08,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4960,3796,148,104,36.2,0.9,81.25,1,84,1.31
+2024-08-08,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11079,7441,321,190,76.3,1.7,148.65,5,156,1.49
+2024-08-08,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3281,2204,86,55,40.3,1.5,179.47,5,51,1.49
+2024-08-08,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8401,5350,191,149,105.38,5.3,643.82,17,127,1.57
+2024-08-08,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,4472,3125,89,59,29.77,0.8,87.45,2,53,1.43
+2024-08-08,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8190,6608,109,77,70.94,1.4,161.89,5,66,1.24
+2024-08-09,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8930,4702,219,122,104.82,2.4,289.98,9,104,1.9
+2024-08-09,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,22559,13730,640,392,288.41,10.0,1245.05,37,336,1.64
+2024-08-09,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4356,1715,162,92,87.52,4.4,627.87,16,72,2.54
+2024-08-09,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,16972,6910,718,434,260.56,19.8,3120.87,69,368,2.46
+2024-08-09,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5013,3621,92,60,46.73,1.0,118.5,3,48,1.38
+2024-08-09,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14177,8856,281,191,130.55,3.0,319.74,14,153,1.6
+2024-08-09,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4583,3426,137,96,28.92,0.8,80.39,2,82,1.34
+2024-08-09,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17408,13407,633,385,104.22,3.7,318.02,14,337,1.3
+2024-08-09,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2304,1416,59,38,33.07,1.2,137.15,4,32,1.63
+2024-08-09,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7862,5298,242,152,100.4,3.8,499.78,11,118,1.48
+2024-08-09,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2649,1797,41,29,23.58,0.4,46.4,1,24,1.47
+2024-08-09,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10418,7976,178,119,72.09,1.7,181.25,7,96,1.31
+2024-08-10,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6015,3331,121,94,71.52,2.1,299.01,9,79,1.81
+2024-08-10,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,13713,6984,270,192,209.33,4.7,561.58,19,165,1.96
+2024-08-10,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3503,1475,146,100,61.45,4.3,640.86,15,80,2.37
+2024-08-10,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9581,3589,269,218,161.81,7.5,992.67,31,185,2.67
+2024-08-10,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3676,2287,77,47,36.8,0.9,120.09,3,38,1.61
+2024-08-10,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11117,6331,190,138,97.93,2.6,309.57,9,128,1.76
+2024-08-10,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4268,3699,130,81,25.68,0.6,70.28,2,69,1.15
+2024-08-10,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,10141,8597,417,246,63.87,2.2,195.53,7,221,1.18
+2024-08-10,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2361,1660,56,40,29.75,1.3,137.53,4,31,1.42
+2024-08-10,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6588,4593,209,136,73.7,3.3,446.07,13,116,1.43
+2024-08-10,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2660,1801,41,26,23.03,0.4,47.91,1,22,1.48
+2024-08-10,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7974,5274,112,74,50.1,1.2,141.61,4,63,1.51
+2024-08-11,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4741,2313,108,72,63.62,1.4,188.35,5,60,2.05
+2024-08-11,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,15859,8361,423,259,192.45,5.8,691.27,18,226,1.9
+2024-08-11,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3733,1440,119,88,64.92,3.6,450.04,15,66,2.59
+2024-08-11,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9179,3951,399,261,145.77,10.4,1486.43,32,221,2.32
+2024-08-11,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2719,2007,50,35,30.73,0.7,86.38,2,30,1.35
+2024-08-11,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,7531,4424,179,106,80.22,2.0,268.44,7,89,1.7
+2024-08-11,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3351,2689,118,77,20.06,0.6,61.86,3,61,1.25
+2024-08-11,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,10462,8200,306,214,54.11,1.6,161.82,5,184,1.28
+2024-08-11,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1827,1137,55,36,27.31,1.0,117.28,3,29,1.61
+2024-08-11,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5426,3426,147,86,78.6,2.3,262.2,7,82,1.58
+2024-08-11,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1978,1434,29,21,15.31,0.3,37.47,1,16,1.38
+2024-08-11,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6109,4345,112,76,46.18,1.1,144.49,4,66,1.41
+2024-08-12,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8730,5766,177,141,114.48,3.3,370.18,10,117,1.51
+2024-08-12,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,20921,10735,460,291,252.4,5.7,729.77,20,235,1.95
+2024-08-12,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3446,1264,121,85,65.09,3.9,587.6,14,63,2.72
+2024-08-12,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12259,4845,497,312,202.02,14.5,1948.67,61,282,2.53
+2024-08-12,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4008,2630,86,52,39.35,1.2,152.65,4,43,1.52
+2024-08-12,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13166,8258,194,155,142.09,3.0,367.12,9,138,1.59
+2024-08-12,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4956,3817,145,95,29.34,0.9,81.77,3,81,1.3
+2024-08-12,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14473,11089,487,303,94.41,2.3,235.5,7,255,1.31
+2024-08-12,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2431,1610,67,45,35.65,1.0,125.31,3,38,1.51
+2024-08-12,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8381,5321,222,146,103.31,3.9,487.26,12,118,1.57
+2024-08-12,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3475,2450,55,39,26.13,0.5,68.66,1,34,1.42
+2024-08-12,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10590,7750,158,115,91.42,1.9,228.4,6,92,1.37
+2024-08-13,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5684,3127,119,87,78.06,1.6,224.02,5,77,1.82
+2024-08-13,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21747,11429,566,350,265.4,7.4,1009.3,30,295,1.9
+2024-08-13,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3552,1499,140,94,72.54,3.3,539.69,6,71,2.37
+2024-08-13,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13013,5484,369,330,246.59,16.1,2463.25,55,280,2.37
+2024-08-13,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5186,3812,137,82,49.13,1.2,140.02,4,73,1.36
+2024-08-13,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11421,8308,205,144,103.09,2.6,296.9,8,126,1.37
+2024-08-13,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5150,4018,143,97,32.61,0.8,66.07,2,83,1.28
+2024-08-13,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15812,15305,534,302,93.46,2.4,234.1,8,261,1.03
+2024-08-13,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2926,1886,100,61,40.04,2.2,260.55,9,49,1.55
+2024-08-13,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7722,5367,229,140,116.04,3.6,510.1,9,130,1.44
+2024-08-13,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3495,2579,53,36,27.71,0.5,63.27,2,30,1.35
+2024-08-13,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8816,6390,113,86,66.68,1.6,188.45,4,76,1.38
+2024-08-14,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7160,4250,182,125,79.7,1.9,270.91,6,96,1.68
+2024-08-14,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,20370,10962,493,360,267.9,8.0,981.8,21,319,1.86
+2024-08-14,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4411,1706,137,102,81.66,4.6,754.1,19,90,2.59
+2024-08-14,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12597,5034,424,282,232.88,10.7,1589.07,46,249,2.5
+2024-08-14,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4375,2929,92,56,41.27,1.1,158.23,4,48,1.49
+2024-08-14,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16175,11111,391,237,150.56,4.1,502.78,17,209,1.46
+2024-08-14,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4150,3235,152,92,25.51,0.9,81.95,2,82,1.28
+2024-08-14,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16952,12507,565,320,86.24,2.7,273.46,8,293,1.36
+2024-08-14,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2884,2053,69,51,38.73,1.6,171.07,5,44,1.4
+2024-08-14,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8923,5650,218,146,115.97,4.4,570.37,13,131,1.58
+2024-08-14,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2910,1852,58,35,25.01,0.5,61.15,1,27,1.57
+2024-08-14,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9379,6400,139,101,76.96,1.6,164.67,6,84,1.47
+2024-08-15,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7245,3843,150,93,95.63,2.1,259.13,6,77,1.89
+2024-08-15,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16054,7971,368,251,235.25,5.4,744.57,23,207,2.01
+2024-08-15,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3224,1504,105,72,67.03,2.6,424.7,10,59,2.14
+2024-08-15,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12998,5246,570,310,267.89,15.2,2326.75,64,267,2.48
+2024-08-15,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4556,2629,68,47,43.63,1.0,115.09,4,42,1.73
+2024-08-15,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15428,9869,452,254,138.24,4.6,525.14,16,218,1.56
+2024-08-15,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4355,3029,115,71,26.34,0.7,66.86,3,58,1.44
+2024-08-15,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16817,13261,505,315,97.81,2.8,278.56,7,273,1.27
+2024-08-15,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2850,1653,50,43,39.04,1.1,145.31,3,34,1.72
+2024-08-15,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8478,5486,235,164,124.19,4.4,585.63,12,124,1.55
+2024-08-15,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2685,1879,38,32,23.48,0.5,60.51,1,28,1.43
+2024-08-15,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7011,6064,125,87,73.32,1.1,121.17,4,77,1.16
+2024-08-16,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7856,4729,204,131,112.17,2.7,345.05,8,111,1.66
+2024-08-16,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,22688,12139,531,361,254.45,9.2,1171.08,30,316,1.87
+2024-08-16,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4199,2103,128,105,76.23,4.0,535.9,11,86,2.0
+2024-08-16,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11399,4479,347,230,218.83,10.7,1562.81,37,197,2.54
+2024-08-16,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6339,4040,160,94,50.74,1.9,237.79,8,87,1.57
+2024-08-16,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16001,10221,343,272,137.28,4.6,489.62,16,217,1.57
+2024-08-16,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6331,4640,204,142,30.58,1.1,108.56,3,120,1.36
+2024-08-16,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15064,12394,475,291,101.53,1.9,160.05,6,253,1.22
+2024-08-16,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2574,1827,67,42,33.96,1.0,122.34,3,33,1.41
+2024-08-16,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,9282,6096,195,141,123.2,4.3,648.75,10,118,1.52
+2024-08-16,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3464,2316,51,34,26.01,0.5,63.11,1,28,1.5
+2024-08-16,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11535,8194,137,103,82.8,1.6,169.42,5,89,1.41
+2024-08-17,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4798,2620,126,75,64.92,1.7,248.21,6,62,1.83
+2024-08-17,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18845,10810,483,290,241.78,6.7,997.98,27,252,1.74
+2024-08-17,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2884,1147,122,77,50.98,3.5,530.05,13,62,2.51
+2024-08-17,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,14662,5253,600,364,209.9,17.1,2636.01,64,321,2.79
+2024-08-17,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3196,2187,66,41,33.51,0.8,99.54,2,36,1.46
+2024-08-17,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,8620,5424,124,94,96.24,1.7,206.28,7,75,1.59
+2024-08-17,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4356,3488,134,101,23.37,0.9,92.83,3,88,1.25
+2024-08-17,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,8586,5723,320,172,60.05,1.3,134.16,5,142,1.5
+2024-08-17,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1982,1134,48,33,23.28,0.8,107.59,2,27,1.75
+2024-08-17,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6932,4688,222,142,86.73,4.0,508.59,13,132,1.48
+2024-08-17,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2055,1454,39,24,16.79,0.4,47.07,1,18,1.41
+2024-08-17,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6009,4494,93,58,45.17,0.9,101.72,2,49,1.34
+2024-08-18,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,3369,1862,64,51,41.43,1.2,143.0,3,44,1.81
+2024-08-18,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17939,10663,449,274,225.39,6.5,1030.43,20,235,1.68
+2024-08-18,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2891,1370,124,72,59.79,4.4,697.16,14,58,2.11
+2024-08-18,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9918,4255,374,242,191.54,11.6,1614.77,36,188,2.33
+2024-08-18,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3708,2234,84,55,34.03,1.0,121.86,3,49,1.66
+2024-08-18,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10480,6043,198,153,94.14,3.3,407.55,12,136,1.73
+2024-08-18,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,2860,2268,64,48,18.8,0.4,36.97,1,43,1.26
+2024-08-18,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11554,8708,334,203,70.19,1.7,177.72,7,167,1.33
+2024-08-18,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1648,1187,45,29,23.84,0.8,110.47,2,26,1.39
+2024-08-18,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5935,4272,115,84,78.37,2.6,323.54,10,69,1.39
+2024-08-18,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2356,1823,35,25,17.5,0.3,34.0,1,22,1.29
+2024-08-18,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5999,4051,89,68,53.85,1.0,120.49,4,59,1.48
+2024-08-19,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9546,5445,249,149,107.02,3.2,413.26,12,119,1.75
+2024-08-19,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,29238,19188,770,439,333.35,10.3,1419.46,36,370,1.52
+2024-08-19,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4538,1787,198,128,63.23,6.2,1047.83,22,108,2.54
+2024-08-19,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9704,3724,290,219,210.0,11.3,1554.32,50,160,2.61
+2024-08-19,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5473,3388,123,69,54.53,1.3,144.73,3,59,1.62
+2024-08-19,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17342,10886,318,212,139.71,4.1,550.75,16,173,1.59
+2024-08-19,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5369,4622,197,111,32.42,0.9,78.52,3,88,1.16
+2024-08-19,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16278,12695,461,314,102.8,2.5,234.56,6,282,1.28
+2024-08-19,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2496,1626,60,46,35.54,1.0,119.11,3,37,1.53
+2024-08-19,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6303,4929,185,104,107.02,2.9,342.03,11,88,1.28
+2024-08-19,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2918,2200,41,28,23.8,0.4,46.04,1,24,1.33
+2024-08-19,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11023,7571,196,127,84.61,1.8,189.98,6,98,1.46
+2024-08-20,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9692,6029,219,132,90.22,3.1,385.14,12,117,1.61
+2024-08-20,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25465,14386,497,378,274.25,8.7,1156.32,32,325,1.77
+2024-08-20,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4779,1881,161,114,84.48,6.0,752.85,23,93,2.54
+2024-08-20,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11480,5213,361,263,212.06,11.5,1614.03,49,243,2.2
+2024-08-20,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3523,2060,67,48,35.3,0.8,90.25,2,38,1.71
+2024-08-20,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17083,10850,297,194,137.9,3.2,392.93,13,178,1.57
+2024-08-20,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3936,3102,102,82,21.65,0.6,60.63,2,71,1.27
+2024-08-20,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15827,11988,508,318,98.18,1.9,213.47,4,255,1.32
+2024-08-20,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2427,2127,69,43,36.27,1.3,153.43,4,35,1.14
+2024-08-20,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8489,6092,241,159,106.59,4.7,597.56,18,141,1.39
+2024-08-20,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2687,1955,40,29,19.66,0.5,66.61,1,24,1.37
+2024-08-20,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,12627,8998,213,152,82.17,1.9,215.25,6,123,1.4
+2024-08-21,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9808,6002,237,145,116.74,3.2,432.16,9,132,1.63
+2024-08-21,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21629,11675,480,351,298.7,7.3,1051.22,31,281,1.85
+2024-08-21,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4648,1968,198,119,80.06,5.6,818.53,21,99,2.36
+2024-08-21,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11930,5723,408,322,244.73,16.6,2363.1,47,283,2.08
+2024-08-21,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5693,3954,94,72,48.68,1.1,133.22,3,62,1.44
+2024-08-21,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17623,10900,363,275,164.94,5.7,742.6,22,248,1.62
+2024-08-21,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5688,4023,209,126,32.14,1.0,94.27,3,112,1.41
+2024-08-21,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,18240,13685,522,317,104.74,2.3,244.45,6,283,1.33
+2024-08-21,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3002,1896,80,50,38.75,1.4,150.91,4,41,1.58
+2024-08-21,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8538,5037,254,179,130.31,4.9,592.35,15,138,1.69
+2024-08-21,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3561,2550,66,47,24.83,0.7,86.34,2,40,1.4
+2024-08-21,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9134,7067,133,108,71.38,1.8,183.75,7,90,1.29
+2024-08-22,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6014,3110,138,86,79.54,1.4,162.77,5,72,1.93
+2024-08-22,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18703,11219,397,275,217.45,6.2,801.52,26,238,1.67
+2024-08-22,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4083,1685,149,89,82.06,4.1,621.86,12,73,2.42
+2024-08-22,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13001,4893,554,350,257.07,16.0,2366.33,66,291,2.66
+2024-08-22,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5579,3681,96,70,48.74,1.4,149.88,4,59,1.52
+2024-08-22,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12068,7391,239,163,109.59,3.2,380.64,11,140,1.63
+2024-08-22,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6180,4946,166,115,34.58,1.1,115.04,3,94,1.25
+2024-08-22,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17873,14595,570,405,97.52,3.6,396.15,11,328,1.22
+2024-08-22,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2893,1910,79,51,36.1,1.7,226.4,6,39,1.51
+2024-08-22,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7188,6312,203,138,117.97,3.5,465.54,15,121,1.14
+2024-08-22,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3282,2317,56,39,23.78,0.6,84.58,2,35,1.42
+2024-08-22,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8284,5882,142,82,61.59,1.4,154.13,6,69,1.41
+2024-08-23,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9654,5127,279,165,122.43,3.9,501.28,14,134,1.88
+2024-08-23,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25675,16633,653,387,285.34,9.5,1226.91,41,319,1.54
+2024-08-23,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4258,1880,161,115,59.93,5.5,933.65,16,100,2.26
+2024-08-23,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,15113,5454,527,366,248.62,20.6,3219.23,82,332,2.77
+2024-08-23,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4029,2623,71,49,43.06,0.8,102.31,2,40,1.54
+2024-08-23,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16393,10521,335,214,151.45,4.0,466.05,15,179,1.56
+2024-08-23,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5604,3996,171,112,28.69,1.0,96.18,2,95,1.4
+2024-08-23,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16579,11408,415,249,96.86,2.2,228.04,3,225,1.45
+2024-08-23,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2465,1666,73,46,32.76,1.4,186.42,5,39,1.48
+2024-08-23,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7523,4680,234,146,97.42,3.8,509.6,10,130,1.61
+2024-08-23,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2581,2099,47,33,24.13,0.5,58.4,1,27,1.23
+2024-08-23,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9155,6294,126,91,68.11,1.1,121.4,4,74,1.45
+2024-08-24,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5018,2873,135,92,63.95,2.1,293.61,8,79,1.75
+2024-08-24,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,13721,7684,275,196,206.24,3.4,471.05,7,166,1.79
+2024-08-24,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2586,1211,85,58,56.98,2.5,358.51,8,46,2.13
+2024-08-24,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13223,5300,512,310,182.77,16.9,2467.86,71,259,2.49
+2024-08-24,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2777,1666,57,36,30.99,0.7,83.53,1,30,1.67
+2024-08-24,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12044,7020,221,162,113.02,2.5,296.23,8,140,1.72
+2024-08-24,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3791,2689,105,76,21.35,0.6,66.62,2,66,1.41
+2024-08-24,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9640,6255,234,177,63.78,1.4,149.81,4,142,1.54
+2024-08-24,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1865,1285,58,35,27.68,1.0,124.72,3,28,1.45
+2024-08-24,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5466,3793,159,90,74.49,3.2,388.68,11,75,1.44
+2024-08-24,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2341,1949,33,26,21.18,0.5,59.53,1,21,1.2
+2024-08-24,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6429,4238,110,62,54.14,1.1,117.64,3,57,1.52
+2024-08-25,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5777,3013,169,112,69.79,2.3,303.12,8,92,1.92
+2024-08-25,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17568,10308,350,283,192.06,6.9,752.62,17,234,1.7
+2024-08-25,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2570,1023,98,62,52.41,2.5,379.18,7,52,2.51
+2024-08-25,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9039,3568,383,229,149.63,8.3,1237.43,25,203,2.53
+2024-08-25,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3320,2198,58,46,33.15,0.7,75.43,2,40,1.51
+2024-08-25,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,5450,3370,89,59,58.63,1.2,150.91,4,46,1.62
+2024-08-25,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3537,2392,144,75,19.26,0.6,56.52,2,68,1.48
+2024-08-25,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9569,7304,269,192,58.13,1.5,147.84,5,170,1.31
+2024-08-25,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2297,1580,56,37,29.46,1.0,127.4,4,27,1.45
+2024-08-25,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5784,3719,157,94,77.26,2.9,378.98,11,76,1.56
+2024-08-25,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1744,1327,30,21,15.01,0.3,40.29,0,17,1.31
+2024-08-25,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6253,4586,95,65,54.79,1.1,123.68,3,54,1.36
+2024-08-26,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7997,4830,129,108,101.52,2.1,290.34,8,94,1.66
+2024-08-26,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,24266,12694,662,374,299.49,8.1,1166.14,32,329,1.91
+2024-08-26,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3007,1215,90,71,59.17,3.2,481.29,9,55,2.47
+2024-08-26,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12655,4986,523,352,247.66,15.7,2182.23,42,326,2.54
+2024-08-26,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6499,4011,121,83,53.15,1.4,173.12,5,71,1.62
+2024-08-26,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14797,8603,303,201,138.37,3.6,443.93,11,177,1.72
+2024-08-26,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4722,3463,104,83,27.17,0.7,60.5,1,73,1.36
+2024-08-26,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,13483,11477,416,267,91.3,1.8,194.86,6,208,1.17
+2024-08-26,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2563,1793,60,39,37.27,1.4,169.58,6,31,1.43
+2024-08-26,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7641,5097,213,133,115.23,4.6,588.83,14,111,1.5
+2024-08-26,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,4009,3006,47,39,32.51,0.6,72.61,1,33,1.33
+2024-08-26,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7939,5460,143,82,64.36,1.1,129.37,4,69,1.45
+2024-08-27,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8544,4281,197,125,91.55,3.0,370.4,10,113,2.0
+2024-08-27,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16050,9481,322,212,243.32,5.9,649.74,20,184,1.69
+2024-08-27,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4193,1779,144,98,78.37,3.8,567.96,12,81,2.36
+2024-08-27,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,16516,6729,679,508,243.17,26.4,3977.32,84,403,2.45
+2024-08-27,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4376,2822,92,56,47.62,1.0,104.91,3,51,1.55
+2024-08-27,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,20283,12295,316,258,139.87,3.7,478.64,11,209,1.65
+2024-08-27,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5538,4226,142,108,31.09,0.8,82.83,2,91,1.31
+2024-08-27,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17929,12911,539,352,115.44,2.7,286.8,9,302,1.39
+2024-08-27,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2732,1474,62,45,38.19,1.4,166.67,4,36,1.85
+2024-08-27,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8093,5534,190,156,119.03,4.0,493.2,11,121,1.46
+2024-08-27,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2811,1821,46,29,24.05,0.5,63.11,1,22,1.54
+2024-08-27,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10510,7968,162,112,75.56,1.7,206.5,5,97,1.32
+2024-08-28,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6869,3874,147,102,93.9,2.2,268.07,6,90,1.77
+2024-08-28,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,20216,10387,474,292,244.64,6.0,714.41,15,264,1.95
+2024-08-28,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3486,1515,179,98,67.45,3.5,479.44,13,85,2.3
+2024-08-28,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,15097,5210,501,381,256.17,16.6,2250.25,71,313,2.9
+2024-08-28,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5482,3603,90,57,49.63,1.2,133.45,3,50,1.52
+2024-08-28,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10584,7130,187,122,112.82,1.9,215.1,7,91,1.48
+2024-08-28,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6206,5324,183,111,37.4,1.0,111.09,3,95,1.17
+2024-08-28,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15354,10833,422,285,98.53,2.1,209.12,8,222,1.42
+2024-08-28,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3424,2340,106,69,42.48,2.0,226.39,5,61,1.46
+2024-08-28,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7854,4861,194,126,104.52,3.5,437.41,11,103,1.62
+2024-08-28,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2594,1957,45,31,21.76,0.4,45.12,1,27,1.33
+2024-08-28,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9211,5911,185,106,71.66,1.8,192.31,7,96,1.56
+2024-08-29,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8084,4168,160,117,111.04,2.5,281.72,10,98,1.94
+2024-08-29,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,29649,15158,551,422,324.98,11.1,1570.83,40,359,1.96
+2024-08-29,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4483,1914,191,107,82.28,6.4,1080.01,24,89,2.34
+2024-08-29,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12709,5319,683,386,212.02,18.9,2617.13,75,324,2.39
+2024-08-29,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3558,2384,61,42,34.78,0.7,83.77,2,32,1.49
+2024-08-29,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,19421,13139,362,244,166.36,5.2,637.45,19,210,1.48
+2024-08-29,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5194,4726,169,101,32.13,1.2,108.44,4,83,1.1
+2024-08-29,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,22522,16499,562,387,116.84,3.1,336.53,9,339,1.36
+2024-08-29,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2614,1618,66,41,37.6,1.1,149.55,4,34,1.61
+2024-08-29,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6901,4179,155,117,104.58,3.5,386.8,9,94,1.65
+2024-08-29,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3428,2898,52,33,23.76,0.4,44.75,1,27,1.18
+2024-08-29,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10785,6566,164,112,78.12,1.9,215.32,6,93,1.64
+2024-08-30,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7001,3724,135,98,90.76,2.0,230.85,5,84,1.88
+2024-08-30,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,23055,15823,449,337,313.29,7.5,942.41,28,286,1.46
+2024-08-30,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3716,1485,119,93,60.42,3.4,512.29,9,72,2.5
+2024-08-30,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12973,5581,452,301,222.11,12.4,1870.52,40,257,2.32
+2024-08-30,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5037,2854,107,70,51.87,1.2,139.53,3,59,1.76
+2024-08-30,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17316,10854,320,209,152.57,3.5,395.15,11,182,1.6
+2024-08-30,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5383,4055,171,103,30.92,0.7,68.95,1,86,1.33
+2024-08-30,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11622,8423,376,250,74.94,1.8,168.48,7,227,1.38
+2024-08-30,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2868,1723,73,48,38.09,1.6,186.62,6,41,1.66
+2024-08-30,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8889,6290,210,164,112.09,4.7,612.93,18,129,1.41
+2024-08-30,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3097,2141,43,30,28.98,0.4,47.0,1,25,1.45
+2024-08-30,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9043,6706,135,96,74.27,1.8,231.24,6,87,1.35
+2024-08-31,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6065,3830,127,88,77.19,1.7,194.72,6,76,1.58
+2024-08-31,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,15709,7985,326,214,181.72,4.6,622.22,14,182,1.97
+2024-08-31,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3252,1292,153,84,59.89,4.9,697.41,11,73,2.52
+2024-08-31,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9042,3536,378,227,180.04,11.8,1573.66,36,191,2.56
+2024-08-31,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3838,2318,94,54,35.64,1.0,111.82,3,45,1.66
+2024-08-31,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11368,6103,218,140,112.19,3.2,366.02,11,113,1.86
+2024-08-31,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4286,3042,116,86,23.71,0.8,81.15,3,68,1.41
+2024-08-31,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11379,9059,295,198,73.56,1.8,196.21,5,157,1.26
+2024-08-31,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2002,1288,48,35,26.72,1.1,139.04,4,27,1.55
+2024-08-31,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5000,3466,109,95,59.94,3.2,405.46,13,77,1.44
+2024-08-31,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2468,1654,40,26,19.92,0.4,43.6,1,20,1.49
+2024-08-31,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6388,5067,112,69,61.1,1.0,116.52,3,57,1.26
+2024-09-01,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4816,2954,123,71,60.46,1.5,175.7,5,58,1.63
+2024-09-01,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,12138,7149,258,170,153.84,3.1,346.85,11,130,1.7
+2024-09-01,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3044,1266,119,79,44.94,4.6,750.0,13,63,2.4
+2024-09-01,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10160,3881,392,255,202.33,9.4,1427.71,33,206,2.62
+2024-09-01,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2611,1648,49,40,28.57,0.7,73.6,2,32,1.58
+2024-09-01,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,9750,6443,168,98,95.1,1.7,185.78,6,84,1.51
+2024-09-01,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3215,2724,93,69,19.58,0.5,52.6,2,63,1.18
+2024-09-01,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11855,10401,460,270,68.83,2.0,214.74,6,246,1.14
+2024-09-01,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1367,857,41,29,22.93,0.9,103.78,3,25,1.59
+2024-09-01,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6432,4053,173,110,94.4,2.9,365.86,10,91,1.59
+2024-09-01,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2131,1569,38,25,16.41,0.4,40.64,1,21,1.36
+2024-09-01,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,4813,4208,91,57,46.54,0.9,104.96,3,50,1.14
+2024-09-02,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6669,3760,143,89,85.86,1.8,205.96,5,72,1.77
+2024-09-02,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,24975,12493,569,349,316.97,10.3,1377.14,40,306,2.0
+2024-09-02,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3411,1331,113,83,65.0,4.0,553.32,18,70,2.56
+2024-09-02,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11748,4806,497,364,200.61,16.2,2325.45,60,301,2.44
+2024-09-02,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4358,2790,75,53,40.6,1.1,128.62,3,44,1.56
+2024-09-02,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17251,9540,416,243,141.99,4.6,459.54,19,197,1.81
+2024-09-02,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4662,3230,168,103,28.41,0.8,77.9,2,86,1.44
+2024-09-02,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16018,11764,363,239,104.09,1.9,192.55,5,189,1.36
+2024-09-02,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2941,1874,83,49,39.71,1.5,191.95,5,43,1.57
+2024-09-02,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8244,5072,221,169,118.18,4.1,480.51,11,143,1.63
+2024-09-02,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3368,2513,62,41,26.89,0.6,75.37,2,38,1.34
+2024-09-02,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7417,5745,119,85,71.2,1.4,154.84,5,69,1.29
+2024-09-03,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8963,4388,157,121,104.7,2.1,260.08,7,101,2.04
+2024-09-03,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19177,9674,484,316,237.87,5.7,678.19,18,273,1.98
+2024-09-03,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4397,1945,141,87,77.2,2.9,466.39,9,71,2.26
+2024-09-03,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12052,4911,438,325,235.47,10.3,1536.33,42,279,2.45
+2024-09-03,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6924,4282,144,91,56.92,1.1,149.79,3,73,1.62
+2024-09-03,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15311,7826,330,219,140.9,2.8,361.56,11,159,1.96
+2024-09-03,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5615,4825,224,122,33.79,0.7,76.16,3,99,1.16
+2024-09-03,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11438,8976,293,197,73.14,1.2,118.57,3,165,1.27
+2024-09-03,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3324,2241,81,51,37.56,0.8,108.1,2,42,1.48
+2024-09-03,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,9144,5963,215,152,116.93,3.2,363.57,9,130,1.53
+2024-09-03,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3075,2140,54,34,25.02,0.4,38.61,1,31,1.44
+2024-09-03,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8594,6313,133,93,75.29,1.3,152.53,4,72,1.36
+2024-09-04,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9473,4967,220,154,116.48,2.6,321.66,7,138,1.91
+2024-09-04,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21080,11338,425,336,277.17,4.9,620.46,15,291,1.86
+2024-09-04,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4390,1804,175,112,89.66,3.9,543.9,17,99,2.43
+2024-09-04,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13009,4990,430,291,262.36,7.6,1177.85,25,246,2.61
+2024-09-04,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5944,3791,94,77,53.89,1.0,96.14,3,68,1.57
+2024-09-04,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16659,10378,289,193,148.85,3.4,468.25,11,165,1.61
+2024-09-04,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5019,3752,155,95,27.7,0.7,71.86,2,73,1.34
+2024-09-04,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,19313,15370,699,423,102.63,2.3,222.48,7,338,1.26
+2024-09-04,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2963,1872,87,55,34.8,1.0,113.05,3,46,1.58
+2024-09-04,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8166,4788,274,153,111.02,3.6,511.32,10,133,1.71
+2024-09-04,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3570,2277,50,38,23.81,0.4,43.07,1,31,1.57
+2024-09-04,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,12185,7683,226,145,90.99,1.7,195.71,7,126,1.59
+2024-09-05,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5859,3062,129,85,75.42,1.2,138.81,3,66,1.91
+2024-09-05,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,32537,19094,655,450,305.43,5.5,738.1,15,404,1.7
+2024-09-05,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4076,1629,156,104,72.68,3.2,493.17,11,85,2.5
+2024-09-05,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12293,4654,511,335,247.66,9.6,1346.73,35,298,2.64
+2024-09-05,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6026,4155,132,72,62.87,0.9,108.41,2,65,1.45
+2024-09-05,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17098,11609,345,229,149.85,3.3,413.33,11,189,1.47
+2024-09-05,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5434,4223,147,108,30.81,0.7,67.93,2,90,1.29
+2024-09-05,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16030,11927,591,349,96.98,2.1,192.03,7,281,1.34
+2024-09-05,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2703,1712,79,52,45.37,1.1,119.93,3,42,1.58
+2024-09-05,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8400,4845,254,165,116.91,3.2,453.63,11,142,1.73
+2024-09-05,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3290,2343,36,29,25.26,0.3,38.83,1,23,1.4
+2024-09-05,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7225,5406,130,84,62.34,1.0,115.31,3,70,1.34
+2024-09-06,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7712,5294,195,113,87.12,1.9,251.5,5,100,1.46
+2024-09-06,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19274,11619,366,267,278.87,3.5,420.89,12,218,1.66
+2024-09-06,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2118,979,84,56,42.22,2.3,372.52,7,45,2.16
+2024-09-06,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,18136,7145,647,447,278.28,15.1,2299.35,56,382,2.54
+2024-09-06,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5164,3407,93,67,49.52,0.8,93.42,2,57,1.52
+2024-09-06,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,17395,10703,321,228,157.02,3.0,388.88,10,195,1.63
+2024-09-06,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4007,3250,107,66,28.78,0.4,39.03,1,61,1.23
+2024-09-06,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,15532,11794,545,319,98.32,1.8,159.02,7,277,1.32
+2024-09-06,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2606,1790,69,47,38.21,0.9,123.2,2,44,1.46
+2024-09-06,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,10866,7376,299,192,125.08,3.4,426.09,11,157,1.47
+2024-09-06,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2575,2128,46,29,22.5,0.3,34.64,1,23,1.21
+2024-09-06,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9206,6014,147,114,70.0,1.4,171.55,6,98,1.53
+2024-09-07,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5053,2658,151,92,70.4,1.5,176.68,4,72,1.9
+2024-09-07,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,15146,8416,387,250,206.86,3.8,497.46,14,213,1.8
+2024-09-07,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3614,1497,185,110,60.05,2.9,352.63,10,97,2.41
+2024-09-07,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8362,3328,330,205,165.91,6.2,908.67,23,173,2.51
+2024-09-07,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4281,2547,89,55,43.5,0.7,85.9,2,49,1.68
+2024-09-07,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,9651,5062,203,135,109.87,1.6,205.9,5,117,1.91
+2024-09-07,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5174,4297,163,101,28.49,0.6,55.7,2,80,1.2
+2024-09-07,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,10733,8638,359,233,63.66,1.6,156.84,5,210,1.24
+2024-09-07,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1740,1111,38,23,28.0,0.5,67.26,1,18,1.56
+2024-09-07,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6155,3601,164,110,78.93,2.4,313.66,4,90,1.71
+2024-09-07,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1883,1376,23,20,15.67,0.2,25.05,0,17,1.37
+2024-09-07,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5278,3563,68,57,47.55,0.7,76.69,2,48,1.48
+2024-09-08,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5891,3276,142,102,72.72,2.5,319.84,7,86,1.8
+2024-09-08,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,14052,6982,275,204,199.43,4.3,506.16,14,170,2.01
+2024-09-08,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3964,1684,152,91,55.62,3.5,534.52,12,81,2.35
+2024-09-08,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9025,3777,281,183,164.43,8.8,1153.69,25,157,2.39
+2024-09-08,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3731,2444,66,39,31.94,0.6,75.12,2,35,1.53
+2024-09-08,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,8717,6304,144,91,83.32,1.3,153.15,5,80,1.38
+2024-09-08,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3731,2757,117,84,18.83,0.6,57.48,2,75,1.35
+2024-09-08,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,10243,6636,309,201,52.25,1.5,155.88,6,173,1.54
+2024-09-08,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2191,1492,62,40,29.68,1.2,134.59,4,33,1.47
+2024-09-08,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,4878,3522,85,77,68.52,2.6,339.45,8,63,1.38
+2024-09-08,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1445,976,27,17,10.72,0.3,38.1,0,15,1.48
+2024-09-08,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6420,4986,100,63,46.84,0.9,94.95,3,54,1.29
+2024-09-09,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8022,4742,183,121,105.42,2.4,284.43,7,113,1.69
+2024-09-09,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19190,11076,511,313,269.46,7.7,1032.06,32,271,1.73
+2024-09-09,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,6294,2449,218,161,94.94,7.7,1017.32,24,123,2.57
+2024-09-09,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,15949,5437,673,430,280.44,18.0,2473.99,67,364,2.93
+2024-09-09,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4921,3331,137,75,39.66,1.4,170.0,4,60,1.48
+2024-09-09,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14640,9854,269,188,165.14,3.2,420.43,8,163,1.49
+2024-09-09,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5790,4156,196,117,34.25,0.8,77.77,2,86,1.39
+2024-09-09,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14911,10661,381,277,82.19,2.4,208.94,5,231,1.4
+2024-09-09,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2596,1654,80,50,31.23,1.6,219.86,3,43,1.57
+2024-09-09,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8197,5230,150,122,106.19,3.7,480.55,13,99,1.57
+2024-09-09,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3212,2278,44,31,27.45,0.5,63.61,1,26,1.41
+2024-09-09,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9018,6755,117,70,74.13,1.3,142.18,3,59,1.33
+2024-09-10,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6725,3719,119,92,92.44,2.2,299.72,8,74,1.81
+2024-09-10,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,33553,17639,562,407,346.28,10.6,1469.65,34,336,1.9
+2024-09-10,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4214,1532,125,100,79.76,4.6,664.75,12,86,2.75
+2024-09-10,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12417,5349,423,325,230.36,13.2,1941.52,58,287,2.32
+2024-09-10,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4922,2387,109,64,53.39,1.3,168.43,5,53,2.06
+2024-09-10,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,13602,8627,315,182,133.36,3.1,362.93,11,152,1.58
+2024-09-10,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4295,3131,130,98,24.28,0.7,70.17,1,81,1.37
+2024-09-10,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,10974,8995,425,255,74.86,1.9,173.71,6,215,1.22
+2024-09-10,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3051,1919,81,56,39.4,1.4,172.41,4,47,1.59
+2024-09-10,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7979,4660,232,141,114.64,4.1,502.73,14,119,1.71
+2024-09-10,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3603,2915,68,42,26.06,0.7,81.5,2,36,1.24
+2024-09-10,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11323,8865,178,119,82.8,1.7,166.15,7,99,1.28
+2024-09-11,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6871,4698,139,97,96.59,2.0,256.39,8,85,1.46
+2024-09-11,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25202,15766,379,299,316.52,6.9,899.28,23,249,1.6
+2024-09-11,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,5925,2206,220,148,97.89,7.6,1273.38,25,130,2.69
+2024-09-11,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13706,5394,463,319,246.9,13.4,2154.94,46,253,2.54
+2024-09-11,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6688,4352,128,87,43.21,1.9,238.49,7,67,1.54
+2024-09-11,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15018,10016,219,179,135.73,2.7,346.66,9,148,1.5
+2024-09-11,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4704,3617,135,99,31.52,0.7,71.98,3,90,1.3
+2024-09-11,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16623,11498,413,358,101.25,2.5,256.76,6,290,1.45
+2024-09-11,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2541,1733,71,44,34.67,1.2,145.38,3,39,1.47
+2024-09-11,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8366,5483,197,139,104.4,4.0,486.94,18,117,1.53
+2024-09-11,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,4205,3225,55,41,27.11,0.6,74.72,2,34,1.3
+2024-09-11,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7869,4821,142,87,69.97,1.4,170.73,4,72,1.63
+2024-09-12,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7077,4207,119,84,99.19,2.1,238.41,6,71,1.68
+2024-09-12,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21152,13032,513,306,280.13,5.8,843.09,17,271,1.62
+2024-09-12,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4729,1969,185,124,75.38,6.3,1053.54,18,98,2.4
+2024-09-12,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12188,4479,455,321,199.67,14.4,2402.66,64,276,2.72
+2024-09-12,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3295,1916,69,43,32.24,0.8,86.52,2,35,1.72
+2024-09-12,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,18261,11011,424,244,160.2,4.4,453.88,16,229,1.66
+2024-09-12,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6198,5219,201,112,34.26,0.9,85.23,3,93,1.19
+2024-09-12,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,20868,14666,709,422,112.51,4.0,402.71,13,359,1.42
+2024-09-12,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3206,1901,78,59,37.45,1.2,122.07,4,48,1.69
+2024-09-12,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7316,5087,208,138,107.43,3.8,415.24,11,120,1.44
+2024-09-12,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2585,1554,51,30,23.18,0.5,55.04,1,28,1.66
+2024-09-12,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9902,7778,143,106,70.99,1.9,222.28,7,88,1.27
+2024-09-13,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7529,4510,183,116,81.79,2.7,309.2,9,93,1.67
+2024-09-13,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,22747,13944,692,374,297.97,9.1,1167.59,30,314,1.63
+2024-09-13,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3888,1711,119,78,71.76,3.5,501.01,9,67,2.27
+2024-09-13,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11760,4121,405,313,208.75,11.9,1806.68,33,239,2.85
+2024-09-13,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5141,3101,101,68,50.41,1.1,137.45,4,56,1.66
+2024-09-13,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14810,9945,231,196,124.73,3.7,466.87,9,158,1.49
+2024-09-13,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5392,3982,179,106,31.89,0.8,73.71,2,93,1.35
+2024-09-13,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14903,10927,314,237,95.09,1.7,158.9,5,211,1.36
+2024-09-13,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3189,2169,80,53,43.35,1.5,199.6,5,39,1.47
+2024-09-13,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7004,4838,203,140,111.63,4.0,454.52,11,123,1.45
+2024-09-13,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3483,2758,64,38,27.94,0.7,78.46,1,33,1.26
+2024-09-13,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8372,5848,125,83,73.3,1.4,159.08,4,64,1.43
+2024-09-14,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5383,2806,123,71,64.53,1.3,200.52,5,60,1.92
+2024-09-14,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,13769,7893,277,180,171.16,3.6,441.23,12,148,1.74
+2024-09-14,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4346,1679,170,110,74.04,5.2,835.0,18,94,2.59
+2024-09-14,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10086,4351,384,250,179.04,11.8,1795.53,39,211,2.32
+2024-09-14,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3388,2155,72,44,33.2,0.7,88.01,2,41,1.57
+2024-09-14,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10226,6383,162,114,103.91,2.3,266.45,5,96,1.6
+2024-09-14,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3388,2318,124,72,20.6,0.5,49.43,1,59,1.46
+2024-09-14,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,12118,8403,325,191,63.21,1.8,187.2,5,149,1.44
+2024-09-14,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1786,1190,46,28,26.57,0.9,110.46,3,22,1.5
+2024-09-14,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,5511,3572,137,94,81.1,2.5,305.54,9,72,1.54
+2024-09-14,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2270,1698,32,23,18.8,0.3,34.52,1,17,1.34
+2024-09-14,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7897,4885,104,76,61.35,1.1,130.68,2,61,1.62
+2024-09-15,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5837,2922,113,83,66.05,2.0,293.44,7,74,2.0
+2024-09-15,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,19585,10120,389,249,222.25,5.4,771.8,22,217,1.94
+2024-09-15,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2814,1120,118,69,53.24,3.7,548.71,13,58,2.51
+2024-09-15,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,7149,2535,299,165,124.37,8.5,1315.95,32,133,2.82
+2024-09-15,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2747,1805,50,39,29.86,0.6,82.95,2,32,1.52
+2024-09-15,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10075,5864,179,123,107.64,2.3,291.33,7,105,1.72
+2024-09-15,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3133,2272,77,53,21.22,0.4,41.82,1,45,1.38
+2024-09-15,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9879,7474,242,184,59.69,1.1,121.15,4,159,1.32
+2024-09-15,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2321,1796,66,43,28.42,1.0,128.6,3,35,1.29
+2024-09-15,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6714,4698,177,112,71.05,3.1,407.3,6,91,1.43
+2024-09-15,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2262,1513,32,20,17.54,0.3,32.47,1,17,1.49
+2024-09-15,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5759,3735,88,58,55.47,0.8,106.93,3,48,1.54
+2024-09-16,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9575,5215,162,130,104.95,3.1,432.29,11,109,1.84
+2024-09-16,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,21863,13167,531,320,241.56,7.9,891.55,24,262,1.66
+2024-09-16,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2896,1181,120,71,55.09,3.2,463.46,12,63,2.45
+2024-09-16,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12776,5170,479,316,245.82,12.9,1847.06,54,295,2.47
+2024-09-16,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,6860,4836,118,78,56.55,0.9,102.91,3,69,1.42
+2024-09-16,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14713,8796,296,209,133.72,3.7,423.9,10,175,1.67
+2024-09-16,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5822,4258,195,122,30.53,0.9,75.72,3,100,1.37
+2024-09-16,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16165,12714,532,374,84.8,2.6,273.56,9,284,1.27
+2024-09-16,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2414,2032,40,38,41.0,1.1,148.39,3,34,1.19
+2024-09-16,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7648,4665,199,132,125.3,3.3,404.89,11,111,1.64
+2024-09-16,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3800,2932,60,38,29.4,0.5,56.57,2,32,1.3
+2024-09-16,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9443,7350,138,94,75.28,1.5,185.58,5,85,1.28
+2024-09-17,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8397,4248,150,113,113.32,2.6,301.73,8,99,1.98
+2024-09-17,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,27366,16037,566,423,333.39,9.1,1182.24,31,361,1.71
+2024-09-17,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4268,1815,138,89,71.25,4.4,702.05,14,72,2.35
+2024-09-17,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13511,5312,592,396,258.75,17.3,2512.0,46,347,2.54
+2024-09-17,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4698,2559,66,58,46.91,1.1,133.76,3,50,1.84
+2024-09-17,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,18134,11613,375,270,155.97,4.9,464.55,13,231,1.56
+2024-09-17,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,7011,5361,220,134,36.34,0.9,93.1,2,115,1.31
+2024-09-17,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16379,12135,486,329,95.8,2.5,251.55,9,265,1.35
+2024-09-17,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2907,1944,79,49,36.41,1.5,173.66,5,42,1.5
+2024-09-17,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8599,6281,274,168,111.62,4.6,610.24,8,152,1.37
+2024-09-17,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3064,2246,50,38,24.86,0.7,83.05,2,31,1.36
+2024-09-17,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7328,5107,133,91,64.08,1.3,166.1,5,77,1.43
+2024-09-18,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6400,3629,147,101,86.49,2.6,319.09,9,83,1.76
+2024-09-18,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,22995,12062,595,376,275.6,8.2,1077.95,32,334,1.91
+2024-09-18,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3063,1247,120,81,53.65,4.0,548.22,14,71,2.46
+2024-09-18,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,8685,3171,298,217,195.64,9.6,1449.65,35,198,2.74
+2024-09-18,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4466,3113,85,55,44.82,1.1,124.05,3,50,1.43
+2024-09-18,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16755,12753,407,272,162.5,4.7,540.43,17,235,1.31
+2024-09-18,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,6485,5116,239,156,35.31,1.2,110.96,4,139,1.27
+2024-09-18,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17975,13438,695,419,105.06,3.0,238.9,10,370,1.34
+2024-09-18,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2363,1609,59,42,33.06,1.4,177.07,4,37,1.47
+2024-09-18,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6126,3783,184,125,96.79,3.3,415.27,11,102,1.62
+2024-09-18,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3071,2420,53,36,23.67,0.5,52.39,1,33,1.27
+2024-09-18,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8286,5842,114,65,70.34,1.1,118.73,3,52,1.42
+2024-09-19,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,10205,5917,213,141,115.99,3.6,534.99,11,122,1.72
+2024-09-19,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25568,11898,664,435,288.23,11.4,1625.71,40,375,2.15
+2024-09-19,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,5747,2027,242,140,93.67,6.3,970.52,21,115,2.83
+2024-09-19,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11236,5515,342,246,230.15,9.6,1613.95,39,215,2.04
+2024-09-19,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4079,2920,89,64,43.93,1.1,127.47,3,59,1.4
+2024-09-19,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14662,10158,306,194,156.22,3.6,391.9,14,165,1.44
+2024-09-19,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5746,4215,192,143,28.08,1.2,130.66,3,118,1.36
+2024-09-19,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,12945,9002,361,263,85.32,2.0,189.91,5,222,1.44
+2024-09-19,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2769,1847,74,50,40.68,1.2,151.92,3,39,1.5
+2024-09-19,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,9072,5939,240,177,119.25,5.0,534.48,21,140,1.53
+2024-09-19,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2623,1909,40,25,23.8,0.4,43.67,1,20,1.37
+2024-09-19,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11443,8293,202,148,74.22,2.1,218.63,8,133,1.38
+2024-09-20,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9935,5307,267,170,108.69,4.0,500.38,14,153,1.87
+2024-09-20,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,27137,15646,706,456,296.87,10.2,1267.23,42,419,1.73
+2024-09-20,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4436,1826,155,105,91.37,4.7,785.71,19,91,2.43
+2024-09-20,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13176,5170,532,358,197.14,19.8,2712.81,56,294,2.55
+2024-09-20,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4359,2819,76,47,43.59,0.7,76.8,1,40,1.55
+2024-09-20,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12896,7510,294,191,146.0,3.0,363.69,11,168,1.72
+2024-09-20,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4757,3954,113,85,29.94,0.7,63.4,2,75,1.2
+2024-09-20,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14646,11201,427,300,83.45,2.6,272.28,10,253,1.31
+2024-09-20,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2739,1782,66,47,35.74,1.2,141.8,4,37,1.54
+2024-09-20,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7921,5538,253,169,118.4,3.8,464.31,13,146,1.43
+2024-09-20,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3421,2678,49,35,24.6,0.5,54.13,1,32,1.28
+2024-09-20,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9184,6085,157,109,83.07,1.7,188.92,5,92,1.51
+2024-09-21,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5953,3350,139,89,77.57,2.1,239.83,6,79,1.78
+2024-09-21,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,17777,10088,410,259,212.79,4.9,638.26,17,224,1.76
+2024-09-21,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3230,1354,136,73,61.14,3.2,472.92,12,67,2.39
+2024-09-21,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10304,4576,400,298,166.96,13.4,1852.85,36,249,2.25
+2024-09-21,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,3585,1930,78,48,31.71,0.9,107.13,2,41,1.86
+2024-09-21,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12204,7549,216,147,109.35,2.5,269.55,5,119,1.62
+2024-09-21,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4982,3608,105,78,28.97,0.5,49.19,2,67,1.38
+2024-09-21,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14705,10198,526,355,85.99,2.7,241.54,9,302,1.44
+2024-09-21,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2917,1935,60,42,35.55,1.2,156.15,4,36,1.51
+2024-09-21,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6521,4745,134,95,91.72,2.6,357.6,8,79,1.37
+2024-09-21,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2561,1717,60,33,19.94,0.5,59.05,2,27,1.49
+2024-09-21,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,8717,6385,147,106,61.82,1.6,160.83,7,95,1.37
+2024-09-22,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4824,2597,116,82,63.37,2.0,282.41,8,61,1.86
+2024-09-22,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,15369,8437,219,184,172.54,5.1,695.76,18,159,1.82
+2024-09-22,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2654,1118,102,67,52.55,2.6,429.84,8,59,2.37
+2024-09-22,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,7500,3272,227,167,157.06,7.6,1280.58,32,125,2.29
+2024-09-22,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4949,2908,106,71,31.91,1.3,156.92,4,61,1.7
+2024-09-22,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,8702,5488,130,103,90.37,1.4,185.64,4,89,1.59
+2024-09-22,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4429,3586,130,87,25.08,0.9,101.27,3,79,1.23
+2024-09-22,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,9813,7735,285,170,60.64,1.4,140.2,4,133,1.27
+2024-09-22,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1512,1052,38,26,21.88,0.7,80.72,1,21,1.44
+2024-09-22,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6827,4560,170,126,79.88,4.1,496.69,14,106,1.5
+2024-09-22,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1477,1142,23,15,13.01,0.3,31.52,0,13,1.29
+2024-09-22,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,6129,4779,94,64,52.33,0.9,89.63,2,58,1.28
+2024-09-23,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6757,3700,157,93,96.08,2.1,294.01,6,83,1.83
+2024-09-23,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,25105,14909,595,374,322.91,8.5,1158.14,34,307,1.68
+2024-09-23,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3818,1568,136,102,68.48,5.2,864.47,18,86,2.43
+2024-09-23,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12719,5259,540,363,216.53,13.7,2096.98,53,308,2.42
+2024-09-23,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5480,3738,102,67,56.11,1.0,123.23,2,59,1.47
+2024-09-23,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,15900,10505,298,210,158.68,3.3,385.27,12,178,1.51
+2024-09-23,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5780,4223,141,97,37.34,0.7,68.98,2,80,1.37
+2024-09-23,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,17111,12180,432,287,107.55,2.6,291.33,6,239,1.4
+2024-09-23,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3124,2246,63,47,42.9,1.0,125.58,3,37,1.39
+2024-09-23,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7772,5182,182,117,118.02,3.3,407.34,10,99,1.5
+2024-09-23,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2723,1927,52,34,27.0,0.5,58.18,1,29,1.41
+2024-09-23,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,7945,5625,166,97,58.08,1.4,163.01,5,76,1.41
+2024-09-24,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,8730,4917,194,124,100.1,2.9,403.87,10,106,1.78
+2024-09-24,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,33046,16165,762,481,350.11,10.2,1251.47,38,430,2.04
+2024-09-24,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4938,1532,226,138,84.07,5.9,840.74,19,123,3.22
+2024-09-24,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,13079,5015,466,337,210.29,13.2,2207.76,48,266,2.61
+2024-09-24,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4403,2599,100,60,40.32,0.9,109.93,3,54,1.69
+2024-09-24,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,12732,7587,274,182,149.36,3.0,334.79,10,153,1.68
+2024-09-24,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4655,3674,148,99,25.07,0.8,73.68,2,89,1.27
+2024-09-24,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,19085,16314,592,404,97.25,3.2,304.31,12,338,1.17
+2024-09-24,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2914,1809,81,51,37.33,1.2,170.81,5,39,1.61
+2024-09-24,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7057,5260,195,125,103.53,3.4,443.32,10,94,1.34
+2024-09-24,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3241,1928,43,27,28.46,0.3,39.35,1,21,1.68
+2024-09-24,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11051,7708,218,124,83.52,2.3,251.86,9,107,1.43
+2024-09-25,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6821,3192,173,105,79.33,2.3,286.08,8,88,2.14
+2024-09-25,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,20917,10997,452,301,235.23,6.8,906.14,27,241,1.9
+2024-09-25,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4393,1628,144,94,85.05,5.1,758.93,19,83,2.7
+2024-09-25,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,9831,3781,322,258,209.43,12.7,1982.18,55,215,2.6
+2024-09-25,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4756,3097,91,54,42.1,1.1,129.93,3,41,1.54
+2024-09-25,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14024,9235,281,180,155.26,3.9,475.48,14,154,1.52
+2024-09-25,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5144,4230,163,113,26.4,0.8,76.5,2,104,1.22
+2024-09-25,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,16967,13025,566,398,93.8,2.7,259.18,9,349,1.3
+2024-09-25,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,3416,2464,94,59,42.83,1.4,166.5,4,52,1.39
+2024-09-25,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,7985,4808,183,139,121.9,3.3,351.84,10,115,1.66
+2024-09-25,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3479,2586,49,37,27.88,0.6,64.66,1,32,1.35
+2024-09-25,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,12337,8247,180,125,81.69,1.9,228.75,7,105,1.5
+2024-09-26,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,6970,3909,195,123,90.72,2.4,300.08,8,111,1.78
+2024-09-26,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,27933,16770,575,374,335.34,10.5,1423.87,27,306,1.67
+2024-09-26,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4461,1841,184,115,73.7,5.9,922.11,14,92,2.42
+2024-09-26,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,12835,4803,485,322,234.45,14.9,2189.4,52,289,2.67
+2024-09-26,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4996,3130,97,73,47.32,1.6,173.93,5,64,1.6
+2024-09-26,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,19728,13511,486,263,161.12,5.4,635.14,12,224,1.46
+2024-09-26,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5762,4755,158,117,33.25,1.1,123.35,4,99,1.21
+2024-09-26,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14700,9996,488,319,88.02,2.8,292.22,10,284,1.47
+2024-09-26,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2671,1757,65,46,40.61,1.2,130.74,3,37,1.52
+2024-09-26,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6655,4493,188,122,107.73,4.1,488.9,13,103,1.48
+2024-09-26,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3192,2196,59,39,28.97,0.6,75.51,2,31,1.45
+2024-09-26,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,10931,8020,193,130,85.63,2.0,242.18,6,112,1.36
+2024-09-27,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,9832,5272,223,135,111.15,3.3,416.84,15,121,1.86
+2024-09-27,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,23384,12043,481,315,311.32,7.2,906.04,26,284,1.94
+2024-09-27,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4227,1809,139,86,75.68,3.9,587.23,11,72,2.34
+2024-09-27,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,15032,5998,503,383,270.61,18.5,2496.35,55,308,2.51
+2024-09-27,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,5108,3192,99,60,46.82,1.2,142.0,3,49,1.6
+2024-09-27,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,16909,11446,367,238,138.15,5.1,597.35,16,198,1.48
+2024-09-27,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5471,4119,155,109,30.66,1.0,115.17,4,95,1.33
+2024-09-27,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,14675,10641,430,276,104.4,2.4,220.9,8,247,1.38
+2024-09-27,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2440,1649,58,45,29.89,1.2,163.85,4,40,1.48
+2024-09-27,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8287,5173,203,154,106.63,3.9,548.52,11,137,1.6
+2024-09-27,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3005,2097,33,26,24.04,0.4,43.33,1,20,1.43
+2024-09-27,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,11845,8705,207,116,81.72,1.5,170.82,3,106,1.36
+2024-09-28,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,5938,2950,137,90,75.25,2.0,271.72,6,75,2.01
+2024-09-28,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,18395,10313,408,237,236.32,4.8,673.28,17,188,1.78
+2024-09-28,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,3728,1347,146,91,68.82,3.2,460.79,9,75,2.77
+2024-09-28,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,11213,4195,417,256,189.64,13.3,2156.76,44,194,2.67
+2024-09-28,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4093,2775,85,50,38.4,0.8,99.6,2,41,1.47
+2024-09-28,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,10498,6720,211,133,116.02,2.7,320.69,9,100,1.56
+2024-09-28,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,4081,2976,115,79,21.7,0.6,55.82,2,71,1.37
+2024-09-28,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,13374,10312,433,310,85.73,2.2,209.41,8,253,1.3
+2024-09-28,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,2396,1538,48,36,28.18,1.2,164.16,4,31,1.56
+2024-09-28,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,6244,4286,146,95,80.66,2.7,312.3,11,83,1.46
+2024-09-28,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,2724,1945,47,31,20.73,0.6,67.88,1,27,1.4
+2024-09-28,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5574,4443,91,65,48.72,1.0,123.35,3,51,1.25
+2024-09-29,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,4794,3139,121,80,55.56,1.5,217.71,4,68,1.53
+2024-09-29,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,16866,10518,393,241,168.28,5.5,723.02,13,217,1.6
+2024-09-29,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,2995,1098,140,84,53.28,3.7,510.45,14,66,2.73
+2024-09-29,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,10637,4649,304,233,192.02,10.7,1604.18,30,194,2.29
+2024-09-29,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,2586,1623,41,32,26.02,0.6,69.61,2,27,1.59
+2024-09-29,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,11313,8306,218,161,102.27,2.5,298.97,9,133,1.36
+2024-09-29,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,3366,2325,90,67,19.41,0.5,49.0,1,58,1.45
+2024-09-29,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,11499,9155,326,246,63.19,1.9,199.08,7,207,1.26
+2024-09-29,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1949,1246,73,39,23.68,1.1,136.94,3,30,1.56
+2024-09-29,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,4412,2669,135,88,76.3,2.6,261.98,10,72,1.65
+2024-09-29,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,1963,1443,30,20,15.2,0.3,34.78,0,16,1.36
+2024-09-29,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,5778,4080,72,53,43.26,0.8,81.6,3,47,1.42
+2024-09-30,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,desktop,7829,4280,119,100,90.16,2.1,270.07,7,82,1.83
+2024-09-30,meta_conv_prospecting_us_001,US - Conversions - Prospecting - LAL,Conversions,Feed,US,mobile,31183,19059,649,490,331.51,9.2,1207.8,27,413,1.64
+2024-09-30,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,desktop,4448,2138,147,112,73.17,4.9,704.89,16,94,2.08
+2024-09-30,meta_conv_retargeting_us_002,US - Conversions - Retargeting - DPA,Conversions,Feed,US,mobile,14690,5344,438,299,245.19,14.8,2304.67,44,243,2.75
+2024-09-30,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,desktop,4184,2779,84,55,42.13,1.3,159.91,3,43,1.51
+2024-09-30,meta_conv_prospecting_uk_003,UK - Conversions - Prospecting,Conversions,Feed,UK,mobile,14810,11244,274,178,139.02,3.0,387.9,8,156,1.32
+2024-09-30,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,desktop,5392,4741,155,111,35.45,0.7,67.68,2,98,1.14
+2024-09-30,meta_traffic_awareness_fr_004,FR - Traffic - Awareness,Traffic,Stories,FR,mobile,19167,15650,548,368,101.75,3.3,348.24,11,308,1.22
+2024-09-30,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,desktop,1909,1319,59,39,30.18,1.4,183.49,3,32,1.45
+2024-09-30,meta_reels_conv_us_005,US - Reels - Conversions,Conversions,Reels,US,mobile,8819,6062,205,137,112.69,3.9,448.34,17,116,1.45
+2024-09-30,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,desktop,3442,2446,58,36,23.05,0.5,52.01,2,31,1.41
+2024-09-30,meta_conv_prospecting_de_006,DE - Conversions - Prospecting,Conversions,Feed,DE,mobile,9141,6290,131,86,74.34,1.2,143.6,3,70,1.45

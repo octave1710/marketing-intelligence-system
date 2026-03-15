@@ -1,0 +1,79 @@
+kpis:
+  ctr:
+    name: "Click-Through Rate"
+    formula: "clicks / impressions"
+    format: "percentage"
+    decimals: 2
+    good_direction: "up"
+    description: "Percentage of users who click after seeing the ad"
+
+  cpc:
+    name: "Cost Per Click"
+    formula: "cost / clicks"
+    format: "currency"
+    decimals: 2
+    good_direction: "down"
+    description: "Average cost to get one click"
+
+  cpm:
+    name: "Cost Per Mille"
+    formula: "(cost / impressions) * 1000"
+    format: "currency"
+    decimals: 2
+    good_direction: "down"
+    description: "Cost per 1000 impressions"
+
+  cpa:
+    name: "Cost Per Acquisition"
+    formula: "cost / conversions"
+    format: "currency"
+    decimals: 2
+    good_direction: "down"
+    description: "Cost to acquire one conversion"
+
+  roas:
+    name: "Return On Ad Spend"
+    formula: "revenue / cost"
+    format: "multiplier"
+    decimals: 2
+    good_direction: "up"
+    description: "Revenue generated per dollar spent"
+
+  cvr:
+    name: "Conversion Rate"
+    formula: "conversions / clicks"
+    format: "percentage"
+    decimals: 2
+    good_direction: "up"
+    description: "Percentage of clickers who convert"
+
+  aov:
+    name: "Average Order Value"
+    formula: "revenue / conversions"
+    format: "currency"
+    decimals: 2
+    good_direction: "up"
+    description: "Average value per order"
+
+  efficiency_index:
+    name: "Efficiency Index"
+    formula: "revenue_share / spend_share"
+    format: "multiplier"
+    decimals: 2
+    good_direction: "up"
+    description: ">1 means channel over-performs relative to its budget share"
+
+severity_thresholds:
+  low:
+    min_deviation: 0.30
+    max_deviation: 0.50
+  medium:
+    min_deviation: 0.50
+    max_deviation: 1.00
+  high:
+    min_deviation: 1.00
+    max_deviation: 2.00
+  critical:
+    min_deviation: 2.00
+    max_deviation: null
+    
